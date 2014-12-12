@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<article xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="FamilyEmergencyPlan">
+    <title>FamilyEmergencyPlan</title>
+    
+    <indexterm zone="FamilyEmergencyPlan">
+        <primary>emergency response</primary>
+    </indexterm>
+    <indexterm zone="FamilyEmergencyPlan">
+        <primary>family/farm</primary>
+    </indexterm>
+    
+    <para>Select an out-of town contact as a family message drop. It may be easier to make a long-distance phone call than to call across town, so an out-of-town contact may be in a better position to communicate among separated family members.</para>
+    
+    <para>Be sure every member of your family knows the phone number and has a cell phone, coins, or a prepaid 
+        phone card to call the emergency contact.
+        If you have a cell phone, program that person(s) as <phrase linkend="ICE">ICE</phrase> (In Case of
+        Emergency) in your phone<citebiblioid>1310</citebiblioid>.
+        If you are in an accident, emergency personnel will often check your ICE listings in order to get
+        a hold of someone you know. Make sure to tell your family and friends that you’ve listed them as
+        emergency contacts. 
+        Teach family members how to use text messaging (also knows as SMS or Short Message Service).
+        Text messages can often get around network disruptions when a phone call might not be able to get through.</para>
+    
+    <para>Subscribe to alert services. Many communities now have systems that will send instant text alerts or e-mails to let you know about bad weather, road closings, local emergencies, etc. Sign up by visiting your ·   local Office of Emergency Management web site.</para>
+    
+    <section><title>Planning to Stay or Go</title>
+    
+    <para>Depending on your circumstances and the nature of the emergency, the first important decision is whether you stay where you are or evacuate. You should understand and plan for both possibilities. Use common sense and available information, including what you are learning here, to determine if there is an immediate danger. In any emergency, local authorities may or may not immediately be able to provide information on what is happening and what you should do. However, you should watch TV, listen to the radio or check the Internet often for information or official instruction as it becomes available. For information on staying put or sheltering in place, click here.</para>
+    
+    </section>
+    
+    <section><title>Emergency Information</title>
+    
+    <para>Find out what kinds of disasters, both natural and man-made, are most likely to occur in your area and how you will be notified. Methods of getting your attention vary from community to community. One common method is to broadcast via emergency radio and TV broadcasts. You might hear a special siren, or get a telephone call, or emergency workers may go door-to-door.</para>
+    
+    </section>
+    
+    <section><title>Emergency Plans</title>
+    
+    <para>FEMA has an Online Family Emergency Planning Tool<citebiblioid>1049</citebiblioid> created by the
+        Ready Campaign in conjunction with the Ad Council to prepare a printable Comprehensive Family
+        Emergency Plan: <uri>http://ready.adcouncil.org/beprepared/fep/index.jsp</uri></para>
+    
+    <para>Or use the generic forms attached to this Handbook (follow the link from the bibliography entry if online).</para>
+    
+    <para>Use the New Quick Share application to help your family in assembling a quick reference list of
+        contact information for your family, and a meeting place for emergency
+        situations: <uri>http://ready.adcouncil.org/beprepared/quickshare.html</uri></para>
+    
+    <para>You may also want to inquire about emergency plans at places where your family spends time: work, daycare
+        and school.
+        If no plans exist, consider volunteering to help create one.
+        Talk to your neighbors about how you can work together in the event of an emergency.
+        You will be better prepared to safely reunite your family and loved ones during an emergency if you
+        think ahead and communicate with others in advance.</para>
+    
+    <remark>Most of this is apparently cut and paste from FEMA documents.
+        Needs to be rewritten, generalized, and linked to appropriate sections of this document. --Eric Vought</remark>
+    
+    </section>
+</article>

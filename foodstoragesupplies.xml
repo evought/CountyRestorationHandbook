@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="FoodStorageSupplies">
+    <title>Food Storage Supplies</title>
+    
+    <indexterm zone="FoodStorageSupplies">
+        <primary>food storage</primary>
+        <secondary>supplies</secondary>
+    </indexterm>
+    
+    <para>Where to get supplies for storage and preservation of food (e.g. oxygen absorbers, dry ice, food-grade containers, etc.)</para>
+    
+    <variablelist>
+        <varlistentry>
+            <term><link xlink:href="http://sorbentsystems.com/longtermfoodstorage.html">SorbentSystems</link></term>
+            <listitem><para>Food grade containers, oxygen absorbers, vacuum and heat sealers.</para></listitem>
+        </varlistentry>
+        
+        <varlistentry>
+            <term><link xlink:href="/freelinking/https%3A/%252Fwww.usaemergencysupply.com/information_center/food_storage_faq/oxygen_absorbers.htm">USAEmergencySupply</link></term>
+            <listitem><para>Tools, containers, and materials for long-term food storage.</para></listitem>
+        </varlistentry>
+        <varlistentry>
+        <term><link xlink:href="http://www.dryicedirectory.com/">DryIceDirectory</link></term>
+        <listitem><para>Locate dry ice vendors near you, worldwide.</para></listitem>
+        </varlistentry>
+    </variablelist>
+</chapter>

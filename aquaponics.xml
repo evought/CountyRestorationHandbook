@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<article xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="Aquaponics">
+    <title>Aquaponics</title>
+    
+    <indexterm zone="Aquaponics">
+        <primary>aquaponics</primary>
+    </indexterm>
+    
+    <para>Aquaponics is a system where fish are raised in conjunction with vegetables. The waste from the fish flows into a hydroponics system to provide nutrients for plant production. The plants filter and process the water to support for the fish. Often there is some component of the system as well to produce food for the fish from food scraps or vermiculture. The system as a whole produces more than the sum of the parts attempted separately and allows a relatively small setup to produce high output of both fish and vegetables.</para>
+    
+    <para>S&amp;S Aqua Farm is a family farm in Missouri with an aquaponics system which also provides information packets for others to start their own system: <link xlink:href="http://www.townsqr.com/snsaqua/page2.htm">http://www.townsqr.com/snsaqua/page2.htm</link>. Their system has been covered in Small Farm Today, Back Home Magazine, The Missouri Conservationist, and The Growing Edge.</para>
+    
+    <para>"Barrelponics" is a system where aquaponics is done on a very small, do-it-yourself scale in plastic drums. Generally, an ebb-and-flow system is used where the roots of the plants are alternatively flooded with water from the fish tank and then drained to both flood the roots with nutrients and allow them access to air. The <citetitle pubwork="book">Barrelponics Manual</citetitle> written by Travis Hughey, is free for download from <link xlink:href="http://www.fastonline.org/content/category/4/15/29/">his website</link>.</para>
+    
+    <para>"Aquaponic Food Production", by Rebecca Nelson and John Pate.</para>
+</article>

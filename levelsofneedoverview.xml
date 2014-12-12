@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<chapter xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="LevelsOfNeedOverview">
+    <title>Levels Of Need Overview</title>
+    
+    <para>The Level of Need is the planning time-frame for information in this handbook. Is this information
+        geared toward dealing with a crisis in progress or for long-term improvement of the community?
+        We divide the Level of Need into three categories:
+    
+    <variablelist>
+        <varlistentry><term><link linkend="EconomicCommunityRestorationGoal">Economic/Community Restoration</link></term>
+        <listitem><para>Work toward mid and long-term improvement of our own economic well-being and the
+            well-being of our communities;
+            making our communities healthier and more resilient in the face of change or hardship.
+            Recognizing and promoting best-practices at the community level.</para></listitem>
+        </varlistentry>
+        
+        <varlistentry><term><link linkend="EmergencyManagementGoal">Emergency Management</link></term>
+        <listitem><para>Dealing with the crisis-of-the-minute whether or not best practices are in place or preparation has
+            occurred.</para></listitem>
+        </varlistentry>
+        
+        <varlistentry><term><link linkend="DisasterPreparationGoal">Disaster Preparation</link></term>
+        <listitem><para>Planning for and dealing with longer term, regional emergencies which might disrupt production,
+            communications, or infrastructure for extended periods.
+            Once again, when disaster strikes implementation of best practices and preparations will likely be
+            incomplete, so thought needs to be given to improvisation or crash-transition.</para></listitem>
+        </varlistentry>
+    </variablelist>
+    </para>
+</chapter>
+

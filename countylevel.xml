@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<chapter xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="CountyLevel">
+    <title>County Level</title>
+    
+    <indexterm zone="CountyLevel">
+        <primary>disaster preparation</primary>
+    </indexterm>
+    <indexterm zone="CountyLevel">
+        <primary>emergency management</primary>
+    </indexterm>
+    <indexterm zone="CountyLevel">
+        <primary>county</primary>
+    </indexterm>
+    <indexterm zone="CountyLevel">
+        <primary>leadership/planning</primary>
+    </indexterm>
+    <indexterm zone="CountyLevel">
+        <primary>economic/community restoration</primary>
+    </indexterm>
+  
+    <para>Planning at the county level.</para>
+</chapter>

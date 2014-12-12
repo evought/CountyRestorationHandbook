@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<chapter xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="WorkingWithWholegrains">
+    <title>Working With Whole Grains</title>
+    
+    <indexterm zone="WorkingWithWholegrains">
+        <primary>grain</primary>
+    </indexterm>
+    
+    <para>This section is about how to work with whole grains.
+        Knowing what to do with unprocessed grains and even prepared flour is a lost art.
+        We discuss how to store grains, how to make and use flour, and how to avoid having to grind bread-quality
+        flour when possible.</para>
+    
+    <section><title>Why Whole Grains?</title>
+    
+    <itemizedlist>
+        <listitem><para>For making breads, pasta, gravies, etc., flour is used.</para></listitem>
+        <listitem><para>It is time/energy consuming to grind flour for each meal where it is needed.</para></listitem>
+        <listitem><para>So why store whole grains instead of quantities of preground flour?</para></listitem>
+        
+        <listitem><para>Flour does not store well or long. /CitationNeeded/</para>
+            
+            <itemizedlist>
+                <listitem><para>Ground flour is susceptible to rot, mold, and pests.</para></listitem>
+                <listitem><para>Ground flour loses nutritional content very quickly.</para></listitem>
+                <listitem><para>Ground flour cannot be planted to grow new grain.
+                    Whole grain stores well for long term emergency needs</para></listitem>
+                <listitem><para>Can be economically sealed and preserved for up to 30 years (e.g. dry ice storage)</para></listitem>
+                <listitem><para>Retain their nutrients</para></listitem>
+                <listitem><para>Can generally be planted to grow new grain even after years of storage.
+                    If we rely on whole grains for just emergency storage, we would still need to rotate supplies periodically</para></listitem>
+                <listitem><para>Best way to do that is to eat it</para></listitem>
+                
+                <listitem><para>Need ability to handle whole grains anyway</para></listitem>
+                <listitem><para>Makes more sources available</para>
+                    
+                    <itemizedlist>
+                        <listitem><para>local grain elevator</para></listitem>
+                        <listitem><para>animal feed</para></listitem>
+                        <listitem><para>wild harvest</para></listitem>
+                    </itemizedlist></listitem>
+            </itemizedlist></listitem>
+        <listitem><para>Use what you store, store what you use.</para></listitem>
+        <listitem><para>Either way, it is likely you will need to know what to do with whole grains</para>
+            
+            <itemizedlist>
+                <listitem><para>How to make it into flour and then into bread, etc,</para></listitem>
+                <listitem><para>How to use it without making flour to save effort or because you do not have the right tools</para></listitem>
+                <listitem><para>How to supplement domestic grain or flour with wild harvested materials to stretch supplies or
+                    increase nutrition.</para></listitem>
+            </itemizedlist></listitem>
+    </itemizedlist>
+    </section>
+    <section xml:id="WhatToDoWithWholeGrains"><title>What To Do With Whole Grains</title>
+        <para>Once you have a quantity of whole, unprocessed grain, you have several options:
+        
+        <itemizedlist>
+            <listitem><para>You can mill it into flour</para></listitem>
+            <listitem><para>You can cook it whole (e.g. puffed wheat, grains in stews)</para></listitem>
+            <listitem><para>You can crack it (e.g. cooked for porridge or stews)</para></listitem>
+            <listitem><para>You can sprout it</para></listitem>
+        </itemizedlist></para>
+        
+        <para>If you have limited supplies of grain and/or limited tools and facilities, you should consider sprouting 
+            the grain first. Sprouting grain increases its nutrition dramatically, increases the yield of your grain
+            supplies, and is the least mechanically difficult. Sprouted grains can then be eaten raw, dried, crushed or
+            ground to make a variety of things, including breads <citebiblioid>881</citebiblioid><citebiblioid>882</citebiblioid>.</para>
+        
+        <para>The next option should be cracking the grain. This is less mechanically intensive than milling but
+            dramatically decreases cooking time. Cracked grains are also good for animal feed.
+            Cracked grains can then be added to stews or cooked into porridge, or used as a substitute for rice in a meal. In a pinch, grain can be cracked with a big rock on a firm surface. Some grains can be readily cracked with a tamper on a concrete patio.</para>
+        
+        <para>Milling the grain (turning it into meal (coarse) or flour (fine)) is mechanically intensive but opens up many options for using it, including making bread, gravies, pasta and so forth. Making fine breads and pastas also requires separating the bran and possibly grading the flour (into whole wheat and white flour, pastry flour, etc). But whole grain breads and pastas can also be made.</para>
+        
+        <para>Many wild harvest or garden plants can be made into flour additives to increase the yield of your grain supplies, including wild grains such as curly dock and golden rod, dried beans, dried tubers, and so forth. Milling is best done in bulk (to make best use of the effort) and as fresh as possible (to preserve nutrition), which are conflicting goals. Several home grain mills are available on the market to turn modest amounts of grain into flour in a home kitchen. These can be hand or electric operated. Traditionally, a neighborhood or community would share a mill capable of handling bulk grain. Each user of the mill pays part of their grain to the mill owner to fund its operation ("mill tax").</para>
+        
+        <para>Last in order of preference is using the grain whole. Most grains requiring cracking in some fashion to open up the fibrous bran coating and make cooking or other processing easier. It is possible to simply toss some grains straight into the pot and they will eventually soften, but it will take much cooking and the grains will tend to be tough or chewy. One way to do this is to put grains (e.g. wheat or rye) in water on a wood stove overnight so that it will be cooked by morning for cereal.</para>
+    </section>
+    
+    <section xml:id="UsingSproutedGrains"><title>Using Sprouted Grains</title>
+        
+        <para>Grains can be sprouted before eating (raw, cooked, baked, or dehydrated). Sprouting grain increases its nutritional yield significantly and reduces the labor involved with milling gain into flour.</para>
+        
+        <para>Grains (or beans) can be sprouted in wide-mouthed jars and then added to breads<citebiblioid>881</citebiblioid><citebiblioid>882</citebiblioid>.</para>
+        
+        <para>Sprouts can also be dehydrated, ground a  pressed into cakes (Essene bread)<citebiblioid>892</citebiblioid>. This can be done using a meat grinder, food processor, blender, rock, etc., and does not require a grain mill. If you have a kitchen grain mill, sprouts can be processed on the "cracked/coarse" setting with less effort than grinding flour from whole dry grain. Wheat sprouts develop quite a bit of gluten and can be used to make whole grain dough more elastic and better rising.</para>
+        
+        <para>Question: does sprouting grain also increase its value for livestock? Specifically, does it decrease starch content and increase protein value?</para>
+</section>
+</chapter>

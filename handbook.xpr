@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="12.0">
+    <meta>
+        <filters directoryPatterns="" filePatterns=""
+            positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="handbook.xpr">
+        <file name="acknowledgements.xml"/>
+        <file name="alternativeenergyandlighting.xml"/>
+        <file name="aquaponics.xml"/>
+        <file name="bibliography.xml"/>
+        <file name="bugoutbag.xml"/>
+        <file name="castledefensesystem.xml"/>
+        <file name="childrenandelderly.xml"/>
+        <file name="clothing.xml"/>
+        <file name="communicationsoverview.xml"/>
+        <file name="communitytownshiplevel.xml"/>
+        <file name="countylevel.xml"/>
+        <file name="disasterpreparation.xml"/>
+        <file name="emergencyflashlights.xml"/>
+        <file name="familyfarmlevel.xml"/>
+        <file name="foodoverview.xml"/>
+        <file name="foodseedsgarden.xml"/>
+        <file name="foodstoragesupplies.xml"/>
+        <file name="forward.xml"/>
+        <file name="handbook.xml"/>
+        <file name="handbookorganization.xml"/>
+        <file name="legalnotice.xml"/>
+        <file name="levelsofdetailoverview.xml"/>
+        <file name="levelsofneedoverview.xml"/>
+        <file name="resilientcommunications.xml"/>
+        <file name="ruralwatcharea.xml"/>
+        <file name="salt.xml"/>
+        <file name="starthere.xml"/>
+        <file name="townshipselfreliance.xml"/>
+        <file name="workingwithwholegrains.xml"/>
+    </projectTree>
+</project>

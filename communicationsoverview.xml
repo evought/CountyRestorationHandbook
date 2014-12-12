@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<chapter xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="CommunicationsOverview">
+    <title>Overview</title>
+    
+    <indexterm zone="CommunicationsOverview">
+        <primary>communications</primary>
+    </indexterm>
+    
+    <para>What connects the personal to policy, restoration to survival, is neighborhood organization and communications. The Neighborhood or Rural Watch ensures a flow of information from local families to and from the County Sheriff and other emergency organizations, charities, and ministries. This flow of information cannot happen without communications and communication must happen no matter the weather or emergency, rural or urban.</para>
+    
+    <para>In this section, we discuss urban Neighborhood Watches, lay out a structure for
+        <link linkend="RuralWatchArea">RuralWatchAreas</link>,
+        and plan a <link linkend="ResilientCommunications">ResilientCommunications</link> network for citizens
+        to inform and help each other.
+        We also talk about how to do these if you were not able to plan <emphasis>before</emphasis> an emergency transpires or if even backup communications fail.</para>
+    
+    
+</chapter>

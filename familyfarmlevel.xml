@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<chapter xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="FamilyFarmLevel">
+    <title>Family Farm Level</title>
+    
+    <indexterm zone="FamilyFarmLevel">
+        <primary>disaster preparation</primary>
+    </indexterm>
+    <indexterm zone="FamilyFarmLevel">
+        <primary>emergency management</primary>
+    </indexterm>
+    <indexterm zone="FamilyFarmLevel">
+        <primary>family/farm/business</primary>
+    </indexterm>
+    <indexterm zone="FamilyFarmLevel">
+        <primary>leadership/planning</primary>
+    </indexterm>
+    <indexterm zone="FamilyFarmLevel">
+        <primary>economic/community restoration</primary>
+    </indexterm>
+
+    <para>10 point check list “A”:</para>
+    
+    <orderedlist>
+        
+        <listitem><para><link linkend="Water">Water</link></para></listitem>
+        
+        <listitem><para><link linkend="FoodSeedsGarden">Food, Seeds, Garden</link></para></listitem>
+      
+        <listitem><para><link linkend="Shelter">Shelter</link></para></listitem>
+        
+        <listitem><para><link linkend="HeatingAndCooling">Heating and Cooling</link></para></listitem>
+        
+        <listitem><para><link linkend="AlternativeEnergyAndLighting">Alternative Energy and Lighting</link></para></listitem>
+        
+        <listitem><para><link linkend="SanitationAndHealth">Sanitation and Health</link></para></listitem>
+        
+        <listitem><para><link linkend="Nutrition">Nutrition</link></para></listitem>
+        
+        <listitem><para><link linkend="ChildrenAndElderly">Children and Elderly</link></para></listitem>
+        
+        <listitem><para><link linkend="ResilientCommunication">Resilient Communication</link></para></listitem>
+        
+        <listitem><para><link linkend="ToolsAndEquipment">Tools And Equipment</link></para></listitem>
+    </orderedlist>
+    
+    <itemizedlist>
+        <listitem><para>Team formation</para></listitem>
+        
+        <listitem><para>Team roles</para></listitem>
+        
+        <listitem><para>Farm Application</para></listitem>
+        
+        <listitem><para>First visit protocol</para></listitem>
+        
+        <listitem><para>Follow through</para></listitem>
+        
+        <listitem><para>Local funding strategies</para></listitem>
+        
+        <listitem><para>Record keeping</para></listitem>
+        
+        <listitem><para>PR steps</para></listitem>
+        
+        <listitem><para>WFNFC Membership</para></listitem>
+    </itemizedlist>
+    
+</chapter>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<chapter xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="CommunityTownshipLevel">
+    <title>Community/Township Level</title>
+    
+    <indexterm zone="CommunityTownshipLevel">
+        <primary>disaster preparation</primary>
+    </indexterm>
+    <indexterm zone="CommunityTownshipLevel">
+        <primary>emergency management</primary>
+    </indexterm>
+    <indexterm zone="CommunityTownshipLevel">
+        <primary>township/community</primary>
+    </indexterm>
+    <indexterm zone="CommunityTownshipLevel">
+        <primary>leadership/planning</primary>
+    </indexterm>
+    <indexterm zone="CommunityTownshipLevel">
+        <primary>economic/community restoration</primary>
+    </indexterm>
+    <indexterm zone="CommunityTownshipLevel">
+        <primary>resilient communications</primary>
+    </indexterm>
+    <indexterm zone="CommunityTownshipLevel">
+        <primary>security and defense</primary>
+    </indexterm>
+    <indexterm zone="CommunityTownshipLevel">
+        <primary>transportation</primary>
+    </indexterm>
+    
+    <figure>
+        <title>Community/Township Level</title>
+        <mediaobject>
+            <imageobject><imagedata fileref="images/communitytownshiplevel.png" scalefit="1"/>
+            </imageobject>
+        </mediaobject>
+    </figure>
+    
+    <section><title>Overview</title>
+    
+    <para>The community and township level of detail is the heart of the Handbook.
+        It is where every effort is brought together, from <link
+            linkend="FarmRestoration">FarmRestoration</link> to <link
+                linkend="CountyLevelDisasterPreparation">CountyLevelDisasterPreparation</link>.
+        The Township level is the smallest level of self-government and the because of short
+        distances involved; it is the level of communication and decision making most likely to
+        be able to act decisively in an emergency.
+        In many cases, this action must be taken autonomously, without coordination from County-level
+        leadership.
+        This means that it is crucial for emergency response plans to be coordinated between county
+        and township level <emphasis>before</emphasis> disaster strikes and that local people must exist who are
+        considered to have the authority to act.</para>
+    
+    <para>Community-level planning is best accomplished using the principles of
+        <link linkend="CastleDefense">CastleDefense</link>: local safe areas with surrounding zones
+        establishing communications, emergency response, and community defense based on distances
+        easily handled by walking or riding.
+        In the Dark Ages, a time of great turmoil in Europe, local manors and monasteries were organized
+        in this manner and often organized into military districts referred to as Marches and Ridings.
+        Using this system of organization ensures that low-tech methods are available for communications
+        when hi-tech methods are for some reason not available.</para>
+    
+    <para>The <glossterm>Public Land Survey System</glossterm> (PLSS) used when Missouri
+        was first surveyed is already well laid out for community-level planning and emergency response.
+        Each <glossterm>Township</glossterm> is a 6 mile square of 36 1-mile sections.
+        This size was selected because anyone in the township can walk into the center, do business,
+        and walk back out within the course of a day.
+        Someone can readily walk from one township to the next for the purposes of a farmers' market
+        or other commerce.
+        A <glossterm>Quadrangle</glossterm>, a square consisting of four townships-by-four, is an area
+        which can be readily covered by horseback or horse-drawn conveyances when and if needed.
+        These squares are already surveyed and numbered for use in community planning.
+        Horse or mechanized post can connect Ridings together when necessary and the Riding Headquarters
+        can function as temporary County Command Posts as County officials circulate to deal with an ongoing
+        crisis.</para>
+    
+    <note><info><author><personname><firstname>Eric</firstname><surname>Vought</surname></personname></author>
+        <title>Township Term Confusion</title></info>
+        
+        <para>It should be noted that Missouri has several conflicting and layered definitions of
+        <glossterm>Township</glossterm>.
+        We are talking about the original survey lines here, not political boundaries.---Eric Vought</para>
+        </note>
+    
+    <figure>
+        <title>Watch Area Communications Diagram</title>
+        <mediaobject>
+            <imageobject><imagedata fileref="images/WatchHierarchyandComm.png" width="6in"/>
+            </imageobject>
+        </mediaobject>
+    </figure>
+    
+    <para>This diagram shows what such a hierarchy might look like and the
+        <link linkend="TwoWayCommunications">TwoWayCommunications</link> which might be usable at each level.
+        Exactly which communications technologies are used in each area depends on terrain and line-of-sight,
+        on roads, foot/horse paths and fordings, on existing practice, on the nature of an emergency, and on
+        the availability of qualified volunteers.
+        Telephone, the cell network, and texting are options at all levels when they are functioning.</para>
+    
+    <para>The basic level of organization at this level is the
+        <link linkend="NeighborhoodWatch">Neighborhood Watch</link>.
+        Urban Neighborhood Watch policies and procedures are already fairly well described.
+        Here we concentrate on developing effective strategies for
+        <link linkend="RuralWatchArea">Rural Watch Areas</link>.</para>
+    
+    <sidebar>
+        <info><author><personname><firstname>Jerry</firstname><surname>Diamond</surname></personname></author>
+            <title>Discussion</title></info>
+        
+        <para>FYI , just to start putting some numbers on "paper" -- in an area of 100 mile radius there will
+            be 31,400 square miles.
+            Pi, which is 3.14 times radius squared = 3.14 x 100 x 100= 31,400 sq.mi.</para>
+        
+        <para>A Township is 36 sq mi, so 31,400 divided by 36 = 872 townships.
+            Many of those will have a good farm; how many?
+            We need to find, identify and keep in touch with those farmers, and develop good farms in the
+            townships which do not have one.
+            Another option is to make sure that there is some viable industry which can allow that township
+            to support itself via barter, etc.</para>
+        
+        <para>Protection of those farms, as a core part of Castle Defense // Guardener Systems will be paramount.
+            I am going to proceed , as to the Pyramid Defense System I am working on, to have each of those
+            Farm / Castles protected.
+            I had always wondered what kind of grid would be necessary to protect the entire region,
+            and since each Township Farm / Castle needs to be secure, that answers the question as to how many
+            systems might be needed.</para>
+        
+        <para>We could begin by placing one per county, then one per March, then one per township...</para>
+        
+        <para>A Riding, 16 Townships, or 4 Marches,   is close to the size of each county.</para>
+        
+        <para>We are then talking about approximately 16 +/- farms per county, which should be an excellent
+            basis for protection, trade, redundancy, seed saving, etc. within that local vicinity.</para>
+        
+        <para>Dividing the total projected  31,400 sq mi by 16 Townships of 36 sq mi, and again by 16
+            Townships per county, that gives us 55 counties give or take.</para>
+        
+        <para>Stated differently, 36 sq mi per TS x 16 TS per Riding, or County, = 576 sq mi per Riding, or
+            County.
+            Divide the "BIG CIRCLE" ** by 576, and you have 55 Ridings/Counties.</para>
+        
+        <para>This number of 576  is fairly accurate, on the average, for smaller counties, as Cedar County is
+            499 sq mi, and Lawrence is 613 sm, Dade is 506 sm.
+            There are bigger counties, Vernon at 837, Howell at 928, while, go figure!!!;
+            "Texas County, the largest of Missouri’s 114 counties, comprises 1,179 square miles of Ozark Highland.
+            With the same name as the second largest of the fifty U.S. states, larger than the smallest State
+            (Rhode Island 1,045 square miles), in terms of total land area."</para>
+        
+        <para>These figures are just a place to start to give us an idea of what kind of level of magnitude we are
+            speaking of.
+            Another way to look at it is that Missouri is 70,000 sq mi.
+            Looking at the map, it looks like the area we are talking about would equal about half of the area of
+            Missouri.
+            Again, some figures to get us somewhere in the ballpark.</para>
+        
+        <para>---Jerry Diamond</para>
+        
+    </sidebar>
+    </section>
+    
+    <xi:include href="castledefensesystem.xml"/>
+    
+</chapter>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<preface xmlns="http://docbook.org/ns/docbook"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="LegalNotice">
+
+    <title>Legal Notice</title>
+    <para>The County Restoration Handbook (hereafter "the Handbook") project 
+        is a collaborative effort of several organizations and combining of 
+        information from <emphasis>many</emphasis> people. As such, the contents of
+        the Handbook is not to be considered official policy of and may not have 
+        been approved by its member organizations, including 
+        <link xlink:href="http://wellfedneighbor.com/">The Well-Fed Neighbor Alliance</link> and <link xlink:href="http://thestatesmen.org/">The Statesmen For Our Constitutional Republic</link>.
+        Inappropriate content should be brought to the attention of the project
+        administrators through any of the various commenting and discussion 
+        mechanisms on the Handbook site or via email to the 
+        <link xlink:href="mailto:webmaster@thestatesmen.org">webmaster</link>.</para>
+    
+    <para>Mail may also be sent to:
+        
+        <address>
+        <orgname>The County Restoration Handbook Project</orgname>
+        c/o <personname>Eric Vought</personname>        
+        <street>14280 Lawrence 1050</street>
+        <city>Stotts City</city> <state>MO</state> <postcode>65756</postcode>
+        <country>USA</country>
+        </address></para>
+    
+    <section><title>Copyright and License of Contributed Work</title>
+        
+        <para>Copyright of any contributed work vests in the original author. 
+            Authors contributing content grant the Well-Fed Neighbor Alliance and 
+            The Statesmen For Our Constitutional Republic a perpetual, worldwide, 
+            non-exclusive, transferable, royalty-free license to distribute the 
+            content in any media for the purposes of this Handbook, including the 
+            right to create derivative works. It is our policy to maintain a history
+            of contributions so that credit can be given where due.</para>
+        
+        <para>All text in the Handbook or on the Handbook website is made available to
+            others under a <link xlink:href="http://creativecommons.org/licenses/by-sa/3.0/">Creative
+                Commons Attribution-Share-Alike 3.0 Unported License</link>. To view a
+            copy of this license, visit <link xlink:href="http://creativecommons.org/licenses/by-sa/3.0/" >http://creativecommons.org/licenses/by-sa/3.0/</link>
+            or send a letter to:
+            
+        <address>
+        <orgname>Creative Commons</orgname>
+        <street>171 Second Street, Suite 300</street>
+        <city>Sam Francisco</city> <state>California</state> <postcode>94105</postcode>
+        <country>USA</country>
+        </address></para>
+
+        <para>This license allows you to freely 
+            redistribute content and create new derivative works as long as you
+            
+            <orderedlist>
+                <listitem><para>credit the original source and</para></listitem>
+                
+                <listitem><para>make the derivative available under 
+                the same terms as you received it.</para></listitem>
+            </orderedlist>
+
+            If a contributed work was from the 
+            public domain or exists outside the Handbook under a more permissive 
+            license, or you obtain permission directly from the original author, you
+            may have additional permissions with respect to the work.</para>
+    </section>
+    
+    <section><title>Contribution Guidelines and Abuses</title>
+        
+        <para>It is the intent of this project to highlight best practices, working
+            from existing information wherever possible. This will often result in a
+            Cite And Summarize policy of summarizing important details and citing the
+            original sources for more information. Copyrighted work shall
+            <emphasis>not</emphasis> be wholesale copied into the Handbook without permission of the original author.</para>
+        
+        <para>If you are a copyright owner and believe your work has been copied or
+            plagiarized, whether intentionally or unintentionally, please flag such
+            violations through any of the available comment or discussion 
+            mechanisms available on the Handbook site or through email to the 
+            webmaster. Properly prepared DMCA take-down notices should go to
+            <link xlink:href="mailto:webmaster@thestatesmen.org">webmaster@thestatesmen.org</link>
+            and will be responded to as promptly as possible in a volunteer 
+            organization. In cases where there is controversy over the content, this
+            may require coordination with leadership of the Well-Fed Neighbor 
+            Alliance, so your patience is appreciated.</para>
+        
+    </section>
+    
+    <section><title>Limitations of Liability, Caveat Lector</title>
+        
+        <para>Neither the Well-Fed Neighbor Alliance nor any contributor to this 
+            project, including The Statesmen For Our Constitutional Republic, are 
+            liable for the accuracy of the content. We are attempting to make 
+            existing information available in a convenient form. Mistakes in 
+            compiling the information are the fault of the Handbook authors, not the
+            original authors, however, mistakes <emphasis>will</emphasis> occur. We make
+            no representation that this information is perfect, and in fact, it is a 
+            constant work-in-progress. The reader is admonished to do their own 
+            homework and take advantage of the
+            <link linkend="Bibliography">Bibliography</link>
+            in carefully evaluating the information presented here. We are in
+            <emphasis>no way</emphasis>
+            responsible for intentional misuse of Handbook contents.</para>
+    </section>
+</preface>

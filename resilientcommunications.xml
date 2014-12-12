@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<chapter xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="ResilientCommunications">
+    <title>ResilientCommunications</title>
+    
+    <indexterm zone="ResilientCommunications">
+        <primary>communications</primary>
+    </indexterm>
+    
+    <section><title>Introduction</title>
+
+<para>Communicating effective alerts and warnings allows people to take actions that save lives, reduce damage and human suffering, and speed recovery.  Rapid reporting about what is happening during a major emergency can also be very effective in protecting people, reducing damage, and improving response.  Neighborhoods and communities need to develop a capability to warn those at risk in a timely manner.</para>
+
+<para>At the family level, it is critical that each member of the family can get information to take appropriate action to protect themselves, connect with other family members, keep loved ones outside the area informed, make themselves useful helping others, and if necessary, get out of the disaster area safely.</para>
+
+<para>Because it is difficult to predict what communications methods might be working during an emergency and it is probable that routine technologies such as telephones, cell phones, and Internet may not be working (or working well), both communities and families need to have <glossterm>resilient</glossterm> communications. This entails three main tasks:</para>
+
+<orderedlist>
+<listitem><para>Have multiple methods of communication and know how to use them (e.g cell phone and 2-way radio).</para></listitem>
+<listitem><para>Ensure that critical information and basic emergency plans are taught and printed in advance so they do not need to be communicated during an emergency. For example, family members and citizens of a community should not need to find out where to go if they cannot go home or have to leave home. This should be selected and discussed in advance.</para></listitem>
+<listitem><para>Select known locations to act as hubs for spreading news, at least one of which is outside the disaster zone, and assign relays which will be responsible for communicating news to and from those hubs. For example, families should select a family member or contact outside their area in advance whom they should contact if they cannot find or contact each other.</para></listitem>
+</orderedlist>
+
+<para>While many informal channels are used to communicate business and personal information every day, resilient emergency communication depends on disseminating alerts, warnings and follow-up information through as many channels as possible, very rapidly.</para>
+
+    </section>
+    
+  <section xml:id="EmergencyFamilyCommunication"><title>Emergency Family Communication</title>
+
+<para><link xlink:href="http://www.fema.gov/plan/prepare/commplan.shtm">http://www.fema.gov/plan/prepare/commplan.shtm</link></para>
+
+<para>Your family may not be together when disaster strikes, so plan how you will contact one another. Think about how you will communicate in different situations.</para>
+
+<para>Complete a contact card for each family member. Have family members keep these cards handy in a wallet, purse, backpack, etc. You may want to send one to school with each child to keep on file. Pick a friend or relative who lives out-of-state for household members to notify they are safe.</para>
+
+<para>Family Communications Plan which should be completed and posted so the contact information is readily accessible to all family members. A copy should also be included in your family disaster supplies kit.</para>
+
+<para>Appendix C of the Are You Ready? Guide (contains blank contact cards and a family communications plan form)</para>
+
+<para>Other notes to be fleshed out:</para>
+
+<itemizedlist>
+<listitem><para>Often easier to dial out than dial in (keep a relative or contact out of your area that you can call with news and others can call them for updates)</para></listitem>
+<listitem><para>Can often text when cell networks are busy</para></listitem>
+<listitem><para>Keep a set of 2-way radios of some type for local communication; know how to use them. Keep at least one in every vehicle &amp; bug-out bag, or on your person.</para></listitem>
+
+<listitem><para>Keep an emergency radio in the home, at work, and in each vehicle which can receive (in priority):</para>
+
+<orderedlist>
+<listitem><para>NOAA Weather Alerts</para></listitem>
+<listitem><para>AM/FM radio</para></listitem>
+<listitem><para>TV (audio only)</para></listitem>
+<listitem><para>Shortwave broadcasts</para></listitem>
+<listitem><para>CB (incoming only)</para></listitem>
+</orderedlist></listitem>
+<listitem><para>Regularly ensure that radios are charged and that spare batteries are available (or car-adapter, crank, or other means of charging).</para></listitem>
+
+<listitem><para>Know your neighbors, their contact info, and what means of communication they have available.
+    Where is your closest <glossterm>AmateurRadioOperator</glossterm> (<glossterm>HAM</glossterm>)?
+    Where is the closest HAM to your out-of-state family? Your child's school?</para></listitem>
+</itemizedlist>
+      
+  </section>
+  <section xml:id="OneWayCommunications"><title>One Way Communications</title>
+
+<para>This section describes one-way communications for getting information out in an emergency (i.e. broadcasting). This type of communication is typically top-down in nature (e.g. from civil authorities, emergency personnel or relief organizations down) but often re-broadcasts information gathered from local sources. Effective one-way communication is essential for action on a community-wide level. People need to know the extent of the emergency, its probable duration, and what action they should take to protect themselves as well as where and how to get or provide help.</para>
+
+<para>A good example is weather information which is gathered from thousands of weather monitoring
+    stations nationwide as well as storm-watch volunteers with mobile radios and then broadcast
+    through the FM NOAA <glossterm>AllHazards</glossterm> radio advisories and by commercial radio broadcasters.
+    The important thing to note is that without viable two-way communications to gather news, authorities have
+    nothing to broadcast.
+    This is why news channels in an emergency will end up rebroadcasting the same initial information endlessly:
+    they have been caught flat-footed and have not been able to gather anything else to report.
+    Healthy neighborhood-level information gathering is essential for one-way communications to function.</para>
+
+<para>On the assumption, however, that you have news to report, how do you get it out to everyone? As a home owner in an emergency, how do you get the information you need to act effectively to protect yourself, your family, and your community?</para>
+
+<para>Types of one-way broadcasting:</para>
+
+<itemizedlist>
+
+<listitem><para>Phone trees (one-way broadcasting over two-way technology)</para>
+
+<itemizedlist>
+<listitem><para>Don't forget <emphasis>texting</emphasis>!</para></listitem>
+</itemizedlist></listitem>
+    
+<listitem><para>Newspapers/flyers</para></listitem>
+<listitem><para>Radio (AM, FM, NOAA AllHazards, TV, note <link linkend="EmergencyAlertSystem">EmergencyAlertSystem</link>/SAME radios, shortwave/HAM )</para></listitem>
+<listitem><para>Town crier, loudspeakers, sirens</para></listitem>
+
+<listitem><para>Rumor mill, local watering hole</para></listitem>
+<listitem><para>Internet (blogs, news sites, browser preemption)</para></listitem>
+<listitem><para>Aircraft</para></listitem>
+<listitem><para>Libraries</para></listitem>
+<listitem><para>Power requirements (receiving and broadcasting)</para></listitem>
+<listitem><para>The impact of cable, IP/telephony, and TV-over-ATM technologies</para></listitem>
+<listitem><para>Digital broadcasting? <link xlink:href="http://en.wikipedia.org/wiki/Common_Alerting_Protocol">CAP</link>?</para></listitem>
+
+</itemizedlist>
+
+<section><title>Phone Trees</title>
+
+<para>A phone tree is a simple way to "get the word out" to a large number of people with minimal effort. The person at the start of the tree calls a small number of people, say four, and each of those four calls four other people, with each of those four calling four others, etc., until everyone on the list is reached.</para>
+
+<para>A list is prepared in advance assigning each person to a level of the tree with all relevant contact information. Each person in the tree tries to reach the people assigned to them by any means available, retrying as necessary. If a person cannot be reached at all, then the person trying to contact them becomes responsible for reaching the people further up the tree. If a report on the number of people contacted is desired (for taking a roster of people who are known-OK, for instance) then each person must call <emphasis>back down</emphasis> the tree when they are through contacting those above them.</para>
+
+<para>It can take days for a single person to contact, say, one hundred people directly. The phone tree divides the work and scales to trees of hundreds of people.</para>
+
+<para>As an emergency broadcasting technique, it works well for getting the word out <emphasis>before</emphasis> an emergency or to call out rescue workers to help in a <emphasis>neighboring</emphasis> emergency. For broadcasting <emphasis>during</emphasis> an emergency, it has one serious limitation: it relies on two-way phone technology to be still operating. Often, even land-line phones run on underground wires are taken out during storms due to overloading of the switching circuits or loss of power to switching stations. Overhead phone lines and cell towers are much more fragile.</para>
+
+<para>A modification of this technique which does work in emergencies is to use two-way radios to contact each family in an area which has CBs or two-way FM radios and then use runners to contact the next level of the tree.</para>
+
+<section><title>Texting</title>
+
+<para>It should be kept in mind that texting on modern cell phones often works when voice connections will not. This is for two reasons: 1) texting does not require a steady connection between phones and 2) text messages are transmitted in the dead space inside other phone calls. This means that when the cell network is overloaded with voice calls and towers do not have steady connections, texting may still work. You can also send text messages to multiple people at once. It has been demonstrated in social networking that text messages can be used in this way to quickly inform hundreds of people of an upcoming event or situation. People should know how to use the text messaging on their phones and texting should be one of the options for contacting people on a phone tree who have cell phones.</para>
+</section>
+    </section>
+    
+<section xml:id="EmergencyAlertSystem"><title>Emergency Alert System</title>
+    
+  <para>The post-1999 replacement for the <link linkend="EmergencyBroadcastSystem">EmergencyBroadcastSystem</link> which allows the President or a lesser authority to preempt all national broadcast systems, including AM, FM, broadcast/cable TV, satellite radio, etc. to announce a national, regional, state, or local emergency.</para>
+
+<para>The EAS uses the <glossterm>SpecificAreaMessageEncoding</glossterm> (SAME) system for identifying whether a broadcast is meant for a specific receiver, such as whether a broadcast tornado warning is for the county in which the receiver is located. Some consumer weather radio systems receive and decode SAME messages for local alerts.</para>
+
+<para>The EAS has never been activated for a national emergency and is considered a last-ditch means of alerting the populace in the case where the President cannot contact the media or the media is not already reporting on a developing situation (such as a sudden hostile nuclear launch). In many instances, normal media outlets using satellite communications begin reporting on an emergency or national incident faster than the EAS system could be activated. EAS broadcasts can reach approximately 98% of the mainland US directly to SAME-capable radios.</para>
+
+<para>See: <link xlink:href="http://en.wikipedia.org/wiki/Emergency_Alert_System">http://en.wikipedia.org/wiki/Emergency_Alert_System</link></para>
+
+</section>
+      
+  <section xml:id="CommunicationsTechnologiesAndPlanning"><title>Communications Technologies And Planning</title>
+    
+
+<para>There are many different ways of communicating, from shouting to satellite Internet. You probably use many different methods every day, such as reading a newspaper and texting on a mobile phone. In many emergencies, from a road accident to an asteroid strike, some or all of your normal communications channels, both for talking to others and for getting news and information, may not function or may not function adequately.</para>
+
+<para>In an emergency some or all of these may occur:</para>
+
+<itemizedlist>
+<listitem><para>Newspapers may not be delivered.</para></listitem>
+    
+<listitem><para>Wired or cellular telephones may not work or may not be reliable.</para></listitem>
+<listitem><para>Internet access may not function.</para></listitem>
+<listitem><para>You may not be able to safely walk or drive to a store or central location for news.</para></listitem>
+<listitem><para>Cable TV may not work.</para></listitem>
+<listitem><para>Local broadcast stations (TV and radio) may be off the air.</para></listitem>
+
+<listitem><para>Postal mail may not be delivered.</para></listitem>
+</itemizedlist>
+
+<para><glossterm baseform="resilient">Resilient</glossterm> communication requires understanding what
+    technologies may be available to communicate, ensuring in advance that more than one option is
+    available both for receiving news, calling for help, keeping in touch with family, and coordinating teams,
+    learning how to use those technologies <emphasis>before</emphasis> an emergency happens, and making sure
+    that appropriate equipment (such as radios and flashlights) are available and working before disaster strikes.</para>
+
+<para>Individuals and families need to develop communications plans for themselves, but it is easier if communities and neighborhoods decide on standards and conventions so that individuals can work together. Not everyone needs to follow the plan (and some uniqueness actually helps promote communications resilience) but everyone should be able to know what the plan is. A plan may be written or suggested by:</para>
+
+<itemizedlist>
+<listitem><para>State, county, or local government.</para></listitem>
+
+<listitem><para>Non-profit or relief organizations.</para></listitem>
+<listitem><para>Neighborhoods, neighborhood watches, school districts, or churches.</para></listitem>
+<listitem><para>Amateur radio groups such as ARES.</para></listitem>
+<listitem><para>A workplace.</para></listitem>
+</itemizedlist>
+
+<para>But, whoever promotes the plan, each level from national to individual should be able to adapt the plan for their own needs and should have continuous input into the plan as requirements, economic realities, skills, technologies, or realistic threats change.</para>
+
+<para>This section describes a number of available communications technologies and how they fit into emergency planning. Many times, an alternative technology can be used in daily life outside an emergency as well. Routine use of alternative communications builds skill and familiarity, can justify expense by benefiting daily life even if no disaster occurs, and can discourage panic in a real emergency by presenting someone with a familiar and normal task. These risk management opportunities will be discussed as appropriate.</para>
+
+<para><emphasis>Principle</emphasis>: The best risk management confers benefits even if the risk does not occur.</para>
+
+<variablelist>
+<varlistentry>
+    <term><link linkend="RoughAndReadyCommunications">Rough and Ready Communications</link></term>
+<listitem><para>Simple communications which do not depend on complex technology to work. Always start here.</para></listitem>
+</varlistentry>
+<varlistentry>
+    <term><link linkend="OneWayCommunications">One Way Communications</link></term>
+<listitem><para>Broadcasting, newspapers and other technologies for getting news and information to a wide audience.</para></listitem>
+</varlistentry>
+<varlistentry>
+    <term><link linkend="TwoWayCommunications">Two Way Communications</link></term>
+<listitem><para>Technologies, especially radio technology, for communicating both ways. Technologies for requesting
+    information, finding people, getting help, coordinating teams/emergency personnel, protecting communities,
+    or simply talking with another person.</para></listitem>
+</varlistentry></variablelist>
+  </section>
+  </section>
+      
+  <section><title>Recommended Watch Equipment</title>
+      
+  <para>The Rural Watches depend on communications equipment to reduce crime, improve neighborhood coordination, respond to emergencies, and prepare for disasters. Watch equipment must work day after day under varied and sometimes punishing conditions. Over the last few years, some of us in the group have tested specific products and equipment for these roles. Most of it, honestly, has been cheap, unreliable, and difficult to use. Some of it has survived the rigors of farm and travel use.</para>
+
+<para>There is some advantage to standardizing on specific products where possible, so that in emergencies someone will already be familiar with borrowed equipment. We need to strike a balance between standardizing new equipment and making sure that purchased products are compatible and interoperable with equipment people already have or may purchase used.</para>
+
+<para>The following Forum discussions have information on equipment we have tested and found sound:
+    <link xlink:href="http://countyrestorationhandbook.thestatesmen.org/content/neighborhood-watch-do-discussion-task-list#comment-9">http://countyrestorationhandbook.thestatesmen.org/content/neighborhood-watch-do-discussion-task-list#comment-9</link>
+    <link xlink:href="http://countyrestorationhandbook.thestatesmen.org/content/emergency-power-radios-and-equipment">http://countyrestorationhandbook.thestatesmen.org/content/emergency-power-radios-and-equipment</link>.
+    In addition, the page on <link linkend="emergency-flashlights">emergency-flashlights</link> has relevant information.
+    These discussions need to be turned into a decent list of equipment we need to encourage people to get along with
+    tips for using those specific units. We will try to buy in bulk to save money where possible.</para>
+</section>
+
+      <section><title>TwoWayCommunications</title>
+          
+  <para>The different types of radio technology can be bewildering.
+      This section attempts to lay out the more common technologies available for emergency use, what they
+      are good for, and how they fit into a communications plan.
+      Any discussion of radio technology is necessarily simplified.
+      There are whole books on each of these technologies (especially
+      <glossterm>Amateur Radio</glossterm>/HAM).
+      We try to present the most important information for making intelligent choices and references for
+      further reading.
+      There are also a number of other special purpose technologies available which we will briefly
+      mention but not get into detail.</para>
+
+<para>A two-way radio is an electronic device for wireless communication. An individual such radio is often called a "set" or "rig". Radios may use different technologies, such as the frequency or wavelength of radio they communicate on (e.g. a "shortwave" radio) and how they encode a message into electromagnetic energy (e.g. AM/FM, digital or analog, SSB). Generally speaking, one radio may only be used to talk to another radio using the same technology. A FRS "bubble pack" radio you commonly see on store shelves may not be used to communicate to a 10m HAM set.</para>
+
+<para>Radios also differ sharply in their purpose.
+    A radio may be a mobile handset meant to be light and portable (but short range).
+    A radio may be a set for installation in a car or other vehicle (like many CB radios).
+    A radio may be a <glossterm>BaseStation</glossterm> for use in a
+    home or office to talk to mobile radios in the field.
+    There are also satellites and repeaters which simply echo what they receive at higher power in order to extend
+    the range of a signal--- possibly to the other side of the planet. Lastly, there are radios meant to bridge gaps
+    between different technologies, such as connecting a mobile radio to a phone system or the Internet.</para>
+
+<para>A cell phone is just a mobile 2-way radio with a common system of repeaters to pick up the signals and connect them, as necessary, to the phone network. The advantage of other technologies in an emergency is that most common 2-way mobile radios can talk to <emphasis>each other</emphasis> without requiring the use of a complex tower and switching system which might not be available or may be inundated with traffic.</para>
+
+<para>Although any individual may only use one or two  of these variations, each of these types and
+    technologies are part of a <glossterm>resilient</glossterm> strategy for emergency communications
+    and it is important to understand where they fit in.
+    Due to the many options available and the fact that technology changes daily, it is impossible to find
+    <emphasis>the</emphasis> right solution.
+    The guidelines we present here are simply a set of best practices which will get a household or
+    community a good distance along the way until it has the expertise to make different decisions.
+    The system does not need to be perfect, but merely good enough to allow people to function when primary
+    systems are unusable.</para>
+
+<section><title>Radios Need Power</title>
+
+<para>It can not be emphasized enough that alternative communications and alternative energy are necessarily tied together. Radio sets require power, and although this can be provided by hand-crank for small, local units, the vast majority of radio sets will require electricity either in the form of batteries (which must be periodically charged) or a direct line for base stations and repeaters. Emergency FM radios used by emergency personnel have a limited power-life and extended time in the field without considering how they are to be recharged can result in a dead communications system, dead citizens, and dead personnel.</para>
+
+<para>Emergency radios used by families and neighborhoods will be useless without reliable power checked regularly and a means to recharge in extended power outages. A community otherwise well-prepared for a disaster without the ability to coordinate and patrol its neighborhoods will rapidly fall prey to criminals and looters. Power for radios must be considered as part of any alternative energy plan.</para>
+</section>
+          
+<section><title>Types of Technologies</title>
+
+<para>The following is a list of basic technologies in common use in the US today. Some technologies will be in more common use in rural vs. urban areas, in major highway corridors, or different parts of the country, but the cost of equipment and the number of people willing to learn new skills or get licenses generally determines how many people will have or be willing to obtain certain types of radios in an area.</para>
+
+<para>[A separate page should be written to talk about each technology in some depth with links for further reading; only top-level information needed by decision makers to generally understand the technology is needed here. Once the break-out pages are done, it will be easier to decide where that line is and this section should be revised accordingly. /EricVought/ 2010-01-30]</para>
+
+<variablelist>
+
+<varlistentry><term>FRS</term>
+<listitem><para><glossterm>Family Radio Service</glossterm>- 
+    unlicensed FM radio for family communication; very short range, cheap hand-held consumer radios make
+    them popular and useful for home, neighborhood, and travel use. FRS shares 7 channels with GMRS so that
+    FRS and GMRS users may talk to each other. FRS (and GMRS) use tones (CTCSS and DCS) to identify different
+    groups of users on the same channel so that users can listen to only the traffic they are interested in.
+    Channel 6, CTCSS tone 22 is suggested by the FCC for national emergency and travel information.</para></listitem>
+</varlistentry>
+<varlistentry>
+    <term>GMRS</term>
+<listitem><para><glossterm>General Mobile Radio Service</glossterm> -
+    FM radio band for personal and family communication requiring FCC license. Can use repeaters to extend range.
+    Many consumer radios support both FRS and GMRS but FCC-license is required for advanced features of GMRS.
+    GMRS licensees will often have better, more professional equipment than FRS users and are allowed to transmit
+    on a higher power with correspondingly greater range/reliability.</para></listitem>
+</varlistentry>
+<varlistentry>
+    <term>CB</term>
+<listitem><para>Citizens Band or Citizens Radio Service - AM radio for general personal and travel communications
+    requiring very simple radio technology. CBs tend to pick up a lot of interference (noise) but have
+    excellent range for mobile radios and deal well with obstacles such as trees, brush, and vehicles.
+    Channel 9 is reserved nationally for emergency communication.</para></listitem>
+</varlistentry>
+<varlistentry>
+    <term>CB/SSB</term>
+<listitem><para>CB with <glossterm>SingleSideBand</glossterm> mode-
+    a way to increase CB range with newer CB radios as long as both radios support SSB.
+    Useful for local person-to-person communication.</para></listitem>
+</varlistentry>
+<varlistentry>
+    <term>MURS</term>
+<listitem><para>Multi-Use Radio Service- FM
+    <glossterm>Very High Frequency</glossterm> (VHF) radio band
+    "a private, two-way, short-distance voice or data communications service for personal or business
+    activities of the general public." Technology tends to be much less standardized (different brands
+    may not talk to each other) than FRS/GMRS but provides more options for private/group communications.
+    Somewhat better range than GMRS because its wavelength is not affected by trees, brush, and small obstacles
+    as much (in this way, similar to HAM 2m).</para></listitem>
+</varlistentry>
+<varlistentry>
+    <term>Emergency FM</term>
+<listitem><para>2-Way FM radios restricted to emergency personnel such as police, fire, and rescue.
+    Technology is similar to GMRS but can support encryption and data transmission.</para></listitem>
+</varlistentry>
+<varlistentry>
+    <term>HAM 2m</term>
+<listitem><para>Amateur Radio 2-meter wavelength, usually FM for short-distance and mobile communication.
+    Requires HAM Technician license or above. May also transmit data (such as Internet connection) and
+    use repeaters to extend range. Used by the Missouri SEAR network for emergency weather spotting.</para></listitem>
+</varlistentry>
+<varlistentry>
+    <term>HAM 6m</term>
+<listitem><para>Amateur Radio 6-meter wavelength, AM or FM for local-to-regional communication.
+    Requires HAM Technician license or above. May also transmit data (such as Internet connection) and use
+    repeaters to extend range. Used by Missouri emergency communications network.</para></listitem>
+</varlistentry>
+<varlistentry><term>HAM 10m</term>
+<listitem><para>Amateur Radio 10-meter wavelength for regional-to-global communication.
+    Requires HAM Technician license or above for voice communication, HAM General license or above for data.
+    May use repeaters to extend range.</para></listitem>
+</varlistentry>
+<varlistentry>
+    <term>Business Radios</term>
+<listitem><para>Many businesses, such as warehouses and office complexes, have Business Band FM radios
+    similar in technology to GMRS.
+    This is mentioned to remind emergency planners to enlist the aid of such businesses in emergency planning.</para></listitem>
+</varlistentry>
+<varlistentry>
+    <term>hybrid radios</term>
+<listitem><para>Some radios support more than one technology. Many 2-way radios also carry NOAA weather broadcasts
+    and alerts.
+    Today, most consumer GMRS radios also support FRS. Professional FM radios can be programmed to work with
+    multiple bands, such as GMRS and MURS as well as the special purpose Business and Marine radio bands.
+    Encouraging businesses to program their radios to support at least one FRS channel (e.g. Channel 6, CTCSS
+    tone 22--- the suggested emergency/travel information channel for FRS/GMRS) will make these businesses more
+    able to contribute to and participate with citizen emergency measures.</para></listitem>
+</varlistentry></variablelist>
+
+    <figure>
+        <title>Two-Way Radio Popularity</title>
+        <mediaobject>
+            <imageobject><imagedata fileref="images/radiopopularity.png"/>
+            </imageobject>
+            <textobject><phrase>A chart of the rough popularity of certain two-way radio technologies.</phrase></textobject>
+        </mediaobject>
+    </figure>
+    
+    <figure>
+        <title>Two-Way Radio Coverage</title>
+        <mediaobject>
+            <imageobject><imagedata fileref="images/2wayradiocoverage.png"/>
+            </imageobject>
+            <textobject><phrase>A chart of the rough ranges offered by certain two-way radio technologies.</phrase></textobject>
+        </mediaobject>
+    </figure>
+
+<para>The choice of which technologies to use cannot be made on the technology or its range alone. Popularity, ease of use, and cost often dominate. One cannot use a superior technology for neighborhood communication if at most one person in the neighborhood has that technology and knows how to use it.</para>
+
+<para>In general, cheap, unlicensed consumer radios can be used for neighborhood and local communication when needed, as long as a sufficient number of more professional operators exist in every neighborhood and community to bridge the gap to county, state, and regional communication. Citizens should be encouraged to achieve at least the bottom-rungs of licensure (e.g. GMRS or HAM Technician) to guarantee that enough operators will be available for emergency needs. Citizens called to assist law enforcement posses, search and rescue, or to patrol their communities will benefit from professional radio skills.</para>
+
+<para>Short-range technologies can be extended by repeaters to achieve quite wide coverage. A church in Boston experimented with giving small, wrist-watch-type FRS radios to elderly in the neighborhood to wear while walking. A local repeater picked up and amplified the weak signals from the tiny radios and church volunteers were able to listen if one of its elderly members needed help without requiring them to wear large, heavy, or complex radios.</para>
+
+<para>Repeaters can be expensive, however (\$500-$1500 ea.) and over-dependence on them leads to the same source of failure as the cellular networks: loss of towers, especially if the 2-way radio repeaters are mounted on the same towers as cellular systems (often the case, there are only so many good tower sites). It is less likely that two independent networks (cellular and mobile radio repeaters on different sites) will be knocked out in the same emergency. Encouraging amateur operators to operate repeaters off of the roofs of their own homes, barns, or silos can allow them to contribute a valuable emergency service. Scattered repeaters with independent power sources (e.g. solar panel and battery) can provide an emergency system with both versatility and redundancy.</para>
+
+<para>Although common mobile radio technologies FRS/GMRS and CB both provide channels for emergency communication, it is a common problem that <emphasis>emergency personnel are no longer listening on them</emphasis>. Police, fire, and rescue often have their own Emergency FM radios and have gotten rid of personal radio sets. It is therefore imperative that private citizens listen to these channels regularly and be prepared to relay information to 911-dispatch. In a situation where the telephone network is lost, emergency personnel should ask citizens to work with them to monitor mobile radio traffic and to take part in search and rescue operations. REACT and ARES are two organizations dedicated to this kind of effort.</para>
+</section>
+          
+<section><title>Division of Labor --- Managing Communications</title>
+
+<para>These kinds of considerations lead to the following general division of labor for communication.</para>
+
+<section><title>Family and Household</title>
+
+<para>Most families and households should have a number of FRS-type radios available for family communication. FRS radios are cheap, lightweight, and simple to use. Many of them also receive NOAA weather broadcasts and almost all of them these days support GMRS channels for future growth. They have convenient charging stations and many now charge off the same mini-USB cables becoming popular for cellular phones. Many have secondary features useful in an emergency, such as built-in flashlight and a siren to signal for help. At the time of this writing (2010-01-30), some consumer radios designed for emergency use (such as the Motorola Talkabout® EM1000) are appearing. Radios are cheap enough that non-profit emergency and relief agencies can stock or distribute a number of them in order to encourage their use or have them available in a disaster.</para>
+
+<para>Two-way radios of this design can be used on a daily basis, outside of an emergency. Since they have no monthly connection fee, they are considerably less expensive than cell phones for neighborhood communication, keeping track of children outdoors or at an event, meeting up in a large store or parking lot, or coordinating multiple vehicles while traveling. Kids can be encouraged to carry them to keep in touch with classmates outside of classes at school. FRS radios can be used in populated areas to get travel and road information and sometimes to talk to other equipped drivers. Such radios are often used by event planners for, e.g. Cub Scouts, historical reenactment, or proms to keep things on track.</para>
+
+<para>If the radios are used routinely outside of an emergency, they will be available in an emergency. An emergency, from a car accident, to a regional ice storm or tornado trapping family members at work or school, can occur with little warning. A 2-way radio should be readily available to every family member old enough to use one at all times. By putting one in every purse, bug-out bag, backpack, or car trunk, you can increase these chances, but only if they are regularly used will you be certain that they are actually present, charged, and functional when needed. In addition, routine use breeds familiarity; performing a familiar task and being connected to friends and loved ones makes it easier to stay calm in an emergency.</para>
+
+<para>Households should be further encouraged to obtain GMRS licenses. This is an FCC license with a fee, generally for five years at a time, and it covers an entire family. Unlike HAM licenses, there is no test but there are some rules and etiquette for using the more powerful GMRS features. Not every household will bother to obtain this license or learn to use it to the fullest, but, the more that do, the more operators will be in each neighborhood with a more advanced skill set and likely somewhat better equipment to glue together the families with cheap "bubble pack" radios and the better chance of getting help or road information when needed.</para>
+
+<para>Each household should have a Citizen's Band or CB radio available and it is a good idea to have one in a vehicle. New CBs are more expensive than FRS radios, but used ones are plentiful. CBs have longer range than FRS radios, especially in urban or wooded conditions, are simple to use, and many people listen to them, including professional truckers, backyard hobbyists, a variety of businesses, and perhaps as much as one-fourth to a third of emergency personnel in rural areas. Chances of getting the word out when, for instance, trapped in the basement of your home or in your car in a snowdrift are better than for FRS/GMRS. It is not too difficult or expensive to put a good CB antenna capable of reaching 10 or more miles on top of a house and only a few of these are required in a community to pick up most citizen emergency traffic. Organizations such as REACT specialize in listening for and relaying these messages to emergency personnel. It is now common for CBs to also carry NOAA weather alerts, providing another opportunity to receive emergency alerts and announcements.</para>
+
+<para>CBs are often a poor choice for family communication, even in rural areas because there is more traffic on them and the traffic might not be "family friendly" (the less-professional truckers can be quite explicit in on-the-road conversations or simply crude and may tie up a channel for quite a while). CB mobile radios also tend to be heavier and bulkier than their FRS/GMRS counterparts.</para>
+
+</section>
+<section><title>Neighborhood Communications</title>
+
+<para>We are generally working from the EMCOM <citetitle pubwork="book">Neighborhood Emergency Radio Communications Service (NERCS) guidelines<citebiblioid>845</citebiblioid></citetitle> for Neighborhood Watch communications. These guidelines form part of the basis for technology choices and frequency/tone assignments.</para>
+
+<para>Neighborhood communications can vary markedly by neighborhood. Each neighborhood should have the means to communicate between at least a portion of households and between its local neighborhood watch and emergency personnel. If a fair portion of households can be kept informed, then people can group together for news or pass information informally (FRS radio, runner, shouting) to other households. Older children and young adults can be readily pressed into service to run paper or verbal (depending on responsibility) messages between stations and will be excited to be able to contribute. Small groups of households (e.g. a floor in an apartment building, four neighboring farms, etc) should associate together for purposes of sharing information, making sure radios can be kept charged, and so forth. Elderly, shut-ins, and similar at-risk residents should group together with another household, if possible, during an emergency.
+This can follow the same structure as a call tree for the local <link linkend="NeighborhoodWatch">Neighborhood Watch</link>
+    and would connect up the chain to the local <glossterm>WatchCaptain</glossterm>.</para>
+
+<para>FRS radios work poorly in urban areas (interference from buildings) but houses are much closer together. A couple of blocks can easily be covered by cheap FRS radios. The higher power of GMRS radios does a better job of penetrating walls and floors. MURS radios do a good job of covering urban areas at somewhat greater expense and the possible need to buy identical radios to ensure interoperability. CBs penetrate buildings well but are often subject to interference from high voltage lines and other electric equipment which might make them unusable. Therefore, it is likely that some combination of FRS and GMRS will be used in urban neighborhoods. In a populated area, a GMRS repeater could easily service several neighborhoods with the expense divided among several hundred people but different channels and CTCSS codes can be used to separate traffic out so it does not become too crowded. (Make sure it has backup power!)</para>
+
+<para>A rural neighborhood may be spread out over several miles to handle just a small number of farms. Unless the terrain is flat and empty, FRS simply will not handle this situation. GMRS without a repeater may be able to depending on terrain and if the local Watch Captain or someone willing to act as a dispatch has a high enough antenna. A GMRS repeater can cover the area but the expense will be divided among fewer households than in an urban area. MURS may do quite well and fewer identical sets are needed to cover the neighborhood. The extended range of CBs may be useful here and interference is usually much less than in urban neighborhoods. A few vehicle-based or home-roof-antenna CB sets can be used to pass information over a considerable area. In this case, many farms might have cheap FRS/GMRS sets for their own use and one CB or MURS radio apiece to connect up to other farms. It is not as easy to fill coverage gaps in rural areas with informal methods since farmers often must remain with their livestock to care for them and runners must cross a considerable distance.</para>
+
+<para>Suburban areas, being in-between these two extremes, can likely make good use of either technology option. Cost, whether people already possess certain radios, and terrain will likely dominate the decision. Coverage gaps can easily be filled by message runners and multiple households can often consolidate to work together in the duration.</para>
+
+<para>Neighborhoods must also be able to communicate to the wider community for news and relay information to emergency personnel. Neighborhood communications, for instance, would be used to report an injury to the Watch Captain (or the neighborhood dispatch) who would then use neighborhood communication to locate temporary assistance (a First Responder or First Aid-trained volunteer) and a longer-distance technology to contact emergency personnel.</para>
+
+<para>This longer distance technology might be CB, CB/SSB, Emergency FM, a high antenna, repeater, or human-in-the-loop relay through another neighborhood, but this is the place where Amateur Radio operators and HAM radios really shine. 2m (with a good antenna or favorable terrain) can cover a town and easily get messages between a neighborhood and another HAM operator (probably an Amateur Radio Emergency Services (ARES) member) working with local authorities and emergency personnel.</para>
+
+<para>ARES encourages members to have portable units with backup power and the radio groups have yearly outings to test their systems and exchange information. In addition, Amateur Radio operators are required to pass tests on a wide variety of radio technology to get their license. A local HAM may be able to help maintain and repair other types of radios, antennas, and generally to advise people on how to best use their equipment.</para>
+
+<para>CB radios with SingleSideBand can be used to pass news in and out of a neighborhood. For technical reasons, CB/SSB is more oriented toward long point-to-point conversations rather than short messages between multiple participants (the receiving and sending radio must be tuned to each other), but this is an excellent technology for families to pass news to other families in the wider area and to simply allow people to connect up and talk when other methods might be reserved for emergency traffic.</para>
+
+</section>
+<section><title>Businesses</title>
+
+<para>Businesses often have radios for their own use. In many cases, these days, this takes the form of Business Band FM radios, but some, especially rural, businesses use CB radios, and some still use GMRS under old FCC licensing rules. Businesses obtain radios for the ends of the business, not the community, but, in order to function in an emergency, to protect its property, or to ensure the survival of its employees during an emergency, a business will need to be able to communicate with the wider community, with Neighborhood Watches, and emergency personnel.</para>
+
+<para>Businesses using CBs or GMRS already have this ability. Professional Business-Band radios are often actually programmable general-purpose radios. A typical radio may have, for instance, four, eight, or ten channels pre-programmed by a technician as memory slots for the frequencies and settings the business uses for security, fulfillment, plant operation and so forth. It is often straightforward to program one of or more of these channels to a shared FRS/GMRS channel (such as channel 6) so that these radios can be used during an emergency for employees to call for help, to coordinate with emergency personnel or community volunteers, or so that some radios can be loaned to emergency services for the duration of a crisis.</para>
+
+<para>If radios are to be used in this manner, it is worthwhile for the business to plan in advance so that the radios may be recovered or paid for after a non-world-ending emergency. This will include property tags, a list of model and serial numbers, and pre-printed receipts so that the business has a record of who requisitioned the radios and who is responsible for them. It is possible for communities to subsidize radios under a letter-of-marque system: community money pays for some of a business radio's cost in exchange for its use during a disaster (when the business will likely not be operating anyway).</para>
+
+<para>Businesses or business complexes might conceivably use a HAM radio to connect to the wider community and relay information from shorter-range business radios to emergency personnel. It should be noted, however, that FCC rules forbid businesses to require employee Amateur Radio Operators to participate in emergency drills or to pay them for their services --- they must remain volunteers.</para>
+
+</section>
+<section><title>Communities</title>
+
+<para>Whether a large city or a rural town, community-wide communication will look somewhat similar. Missouri's townships were specifically laid out to support reasonable foot and horse communication which also makes them reasonable for the same radio technologies.</para>
+
+<para>Emergency FM radios and repeaters will be used to connect emergency personnel. HAM 2m, 6m, and possibly 10m will connect the community to the wider world and coordinate with county and state officials. HAM operators can relay messages for citizens to their families in other communities or help separated families find each other. Either a significant number of emergency personnel should have access to citizen mobile-radios used for personal or neighborhood communication (CB, FRS/GMRs, MURS) <emphasis>or</emphasis> emergency personnel should be prepared to use citizen volunteers to relay messages to them.</para>
+
+<para>Communities must be careful when relying on Emergency FM and a repeater network. It has been shown, in 9/11, for instance, that these radios do not work well in and out of disaster areas where debris and rubble may absorb signals, especially if the repeater network with its more powerful transmitters is damaged or destroyed. Emergency personnel should be prepared to fall back to more resilient technologies when necessary, including CB or CB/SSB radios (high-voltage interference is less likely present in such a disaster), HAM radio operators on the 2m band, and good-old fashioned paper and runners to go between pockets of Emergency FM connectivity. There also must be means for emergency personnel who may be spending extended periods in the field to <emphasis>recharge</emphasis> their radios.</para>
+
+<para>A healthy local Neighborhood Watch organization may provide a ready-made system to relay critical messages and emergency personnel should form relationships with the neighborhood operators <emphasis>before</emphasis> they are needed to make sure they are prepared to work together. More than a radio is needed to relay messages; it also requires more radio discipline than typical communications and both sides have to agree on basic conventions and protocols. For example, the radio code "ten-twenty-three" can mean very different things to a typical CB operator and to a police officer.</para>
+
+<para>In problematic terrain (hills and thickets of trees), communities should make efforts to encourage siting of CB and line-of-site FM antennas in good locations, such as the roof of a house at the peak of a hill.</para>
+
+<para>Communities should also have access to alternate methods of Internet connectivity (cable, DSL, wireless broadband, satellite) to provide the best possibility that normal business may proceed as best as may be expected. More technologies means a better chance that they will not all be knocked out. Internet systems were explicitly designed by DARPA to survive a nuclear holocaust. Internet routing is quite resilient in the face of alternate routes and broken trunks. Scattered satellite Internet connections can ensure that information can get in and out of a region even in very significant disasters.</para>
+
+<para>Internet connections (and HAM packet radio systems) also provide a convenient way to transfer bulk data such as pictures, compressed audio, and documents into and out of a disaster zone, such as research on a disease outbreak, photos of criminals or of equipment damage, technical specifications (say for repair of equipment), and official documents authorizing emergency action. Making certain that local Internet Service Providers are prepared to reroute around damaged connections using different technologies benefits both them and the community at large.</para>
+
+<para>Community shelters should site HAM relays where possible. The amateur operators can then take advantage of the shelter's emergency power and, when emergency traffic does not take priority, can help separated families connect to each other.</para>
+</section>
+    
+<section><title>Counties</title>
+
+<para>County-wide and county-to-state communication will largely be accomplished on the HAM 2m and 6m band using volunteer operators, possibly with a network of repeaters. 6m radio is also the standard for Missouri emergency communication. Which bands will be used in what manner for county coverage depends entirely on county terrain. A basic plan, including strategic placement of amateur radio relays and automated repeaters should be developed and tested.</para>
+
+<para>Weather spotters in Missouri largely use 2m technology.</para>
+
+<para>A significant portion of County sheriff and other county-wide emergency personnel should have access to CB and CB/SSB sets and be trained in their use. In addition, personnel should be prepared to coordinate with Neighborhood Watches to relay information when phone systems are down.</para>
+
+<para>A small number of FRS/GMRS sets should be available to communicate with residents-on-the-scene, an extreme example being when someone is trapped in a collapsed house and only has an FRS radio or a resident is barricaded in the bedroom with an ax-murderer in the house. Relaying from emergency radio to dispatch, down to a neighborhood dispatch and finally, to the trapped resident would be excessively cumbersome. County personnel may elect to borrow citizen radio operators (or radios) from the neighborhood/community near the scene, but this should be thought about some in advance as time may count.</para>
+
+<para>County agencies or organizations will need to operate radio bulletin boards to gather and disburse information on people separated by or stranded in the emergency. Radio relays at shelters can report to the county relay who has checked in at a shelter and can deliver posted messages. Other family members can then connect to the county system and be directed to the correct shelters or receive a message that a loved one is accounted for and safe.</para>
+</section>
+    
+<section><title>State</title>
+
+<para>At the state level, the county communication systems must come together to work with state government/emergency management, disaster/relief organizations, and regional information sources. Broadcast news sources such as TV, and radio must be able to get timely information from these organizations to keep listeners informed. Missouri has standardized on a 6m emergency radio network. The details of state planning are beyond the scope of this document but largely flow from the needs of county systems.</para>
+    
+<note><title>Paper Mail/Courriers</title><para><citetitle pubwork="book">The Postman</citetitle>,
+    <citetitle pubwork="book">Lucifer's Hammer</citetitle>; how to organize to get physical mail
+    transfer working as quickly as possible.
+    Mail courier as means of informal communication and official broadcasts. ---Eric Vought</para></note>
+</section>          
+</section>
+      </section>
+</chapter>
+
+

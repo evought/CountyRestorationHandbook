@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+<book xmlns="http://docbook.org/ns/docbook" 
+        xmlns:xi="http://www.w3.org/2001/XInclude"
+        xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" status="draft">
+    <info>
+        <title>The County Restoration Handbook</title>
+        <subtitle>Building the future one county at a time</subtitle>
+        
+        <authorgroup>            
+        <editor>
+            <personname><firstname>Eric</firstname><surname>Vought</surname></personname>
+            <affiliation><shortaffil>Regional Co-Coordinator, Founding Member, The Well-Fed Neighbor Alliance</shortaffil></affiliation>
+            <affiliation><shortaffil>President, The Statesmen For Our Constitutional Republic</shortaffil></affiliation>
+        </editor>
+        <editor>
+            <personname><firstname>Cathi</firstname><surname>Vought</surname></personname>
+            <affiliation><shortaffil>Regional Co-Coordinator, Founding Member, The Well-Fed Neighbor Alliance</shortaffil></affiliation>
+        </editor>
+        </authorgroup>
+        
+        <pubdate>2010-11-12</pubdate>
+        
+        <publisher>
+            <publishername>The Well-Fed Neighbor Alliance</publishername>
+            <address>
+                <city>Springfield, MO</city>
+                <country>United States</country></address>
+        </publisher>
+        
+        <edition>0.1.1</edition>
+        <releaseinfo>0.1.1: Minor revisions to 1st Major Printed Draft</releaseinfo>
+        <revhistory>
+            <revision>
+                <revnumber>0.1.2</revnumber>
+                <date>2010-11-12</date>
+                <revremark>Incorporated online changes to Food. Incorporated online Family Emergency Plan article.</revremark>
+            </revision>
+            <revision>
+                <revnumber>0.1.1</revnumber>
+                <date>2010-11-12</date>
+                <revremark>Editorial corrections to Legal Notice, Acknowledgements, Forward, Handbook Organization. Added
+                bridgeheads to forward. Moved external links (URLS) to footnotes so as not to be
+                confused with citations.</revremark>
+            </revision>
+            <revision>
+                <revnumber>0.1</revnumber>
+                <date>2010-11-06</date>
+                <revremark>1st Major Printed Draft</revremark>
+            </revision>
+        </revhistory>
+        
+        <abstract>
+            <para>This project is a collaboration between the Well-Fed Neighbor Alliance,
+                The Statesmen For Our Constitutional Republic, and other organizations.
+                The goal of the handbook is to provide a guidebook and framework for restoring the sovereignty,
+            good stewardship, stability, and general resilience  of the counties of the United States, starting with
+            Lawrence County, Missouri, as our initial focal point. Sovereignty is the focal point of this effort:
+            none of the other terms we use: good stewardship, stability, and resilience, make sense outside the
+            context of local people having control over their own lives.</para>
+  
+            <para>None of this is intended to imply that a locality can or must isolate itself from the rest of the
+                country or the world. Each locality, however, can and must be prepared to provide its most critical
+                needs for itself, when it must, during all kinds of emergencies or crises.
+                A locality must also have alternatives for any of its basic needs, even those it traditionally
+                provides for itself.
+                Without being able to provide for its own needs, neither a community nor its individuals have autonomy
+                nor control over their own destinies: you cannot successfully negotiate for anything when you cannot
+                walk away from a bad deal.</para>
+            
+            <para>The Lawrence County document is meant to be heavily tailored for different localities.
+                Clearly Greene County, MO, Tioga County, NY, Los Angeles County, CA, and Pima County, AR
+                have very different needs and must meet them differently.
+                No single effort can hope to cover all these diverse needs, but many ideas and best practices can be
+                shared.</para>
+            
+            <para>The Handbook is a compendium of knowledge developed in an online shared-authoring environment at
+            http://countyrestorationhandbook.thestatesmen.org. Periodic snapshots are published from the online information.</para>
+        </abstract>
+    </info>
+    
+    <xi:include href="legalnotice.xml"/>
+    
+    <preface><title>Preface to 0.1</title>
+    <para>This is a partial draft with useful information as a demonstration of where we are headed.
+    Much is missing, especially parts of the Cyclopedia and Glossary which are online. The Bibliography is very
+    rough. But a tremendous amount of material has come together and perhaps it is a good beginning. ---Eric Vought</para>
+    
+    </preface>
+    <xi:include href="forward.xml"/>
+    
+    <xi:include href="acknowledgements.xml"/>
+    
+    <part xml:id="IntroductionAndOrganization">
+        <title>Introduction and Organization</title>
+        
+        <xi:include href="handbookorganization.xml"/>
+        
+        <xi:include href="starthere.xml"/>
+        
+        <xi:include href="wherearewenow.xml"/>
+        
+        <xi:include href="levelsofdetailoverview.xml"/>
+        
+        <xi:include href="levelsofneedoverview.xml"/>
+    </part>
+    
+    <part xml:id="LevelsOfDetail">
+        <title>From Family and Farm to County- Levels of Detail</title>
+                
+        <xi:include href="familyfarmlevel.xml"/>
+        
+        <xi:include href="communitytownshiplevel.xml"/>
+        
+        <xi:include href="countylevel.xml"/>
+        
+    </part>
+    
+    <part xml:id="LevelsOfNeed">
+        <title>From Economic Restoration To Simple Survival - Levels of Need</title>
+        
+        <xi:include href="townshipselfreliance.xml"/>
+        
+        <xi:include href="emergencymanagement.xml"/>
+        
+        <xi:include href="disasterpreparation.xml"/>
+    </part>
+    
+    <part xml:id="Food">
+        <title>Food</title>
+        
+        <xi:include href="foodoverview.xml"/>
+        <xi:include href="salt.xml"/>
+        <xi:include href="workingwithwholegrains.xml"/>
+        <xi:include href="foodseedsgarden.xml"/>
+        <xi:include href="threesistersgardening.xml"/>
+        <xi:include href="foodstoragesupplies.xml"/>
+        <xi:include href="smalllivestock.xml"/>
+    </part>
+    
+    <part xml:id="Communications">
+        <title>Communications and Neighborhood Organization - What Ties It Together</title>
+        <xi:include href="communicationsoverview.xml"/>
+        <xi:include href="resilientcommunications.xml"/>
+        <xi:include href="ruralwatcharea.xml"/>
+    </part>
+    
+    <part xml:id="RestorationCyclopedia">
+        <title>Restoration Cyclopedia - Topics From A to Z</title>
+        <xi:include href="alternativeenergyandlighting.xml"/>
+        <xi:include href="aquaponics.xml"/>
+        <xi:include href="bugoutbag.xml"/>
+        <xi:include href="clothing.xml"/>
+        <xi:include href="childrenandelderly.xml"/>
+        <xi:include href="emergencyflashlights.xml"/>
+        <xi:include href="familyemergencyplan.xml"/>
+    </part>
+    
+    <glossary></glossary>
+    
+    <xi:include href="bibliography.xml"/>
+    
+
+    
+    <index>
+        <title>Index</title>
+        <indexterm>
+            <primary>castle defense</primary>
+            <see>security and defense</see>
+        </indexterm>
+    </index>
+    
+    <appendix xml:id="SupportingDocuments">
+        <title>Supporting Documents</title>
+        <para></para>
+    </appendix>
+    
+</book>

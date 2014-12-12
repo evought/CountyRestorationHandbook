@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<chapter xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="LevelsOfDetailOverview">
+    <title>Levels Of Detail Overview</title>
+        
+    <para>The handbook covers several levels of detail and several overlapping goals as shown in the following diagram:</para>
+    
+    <figure>
+        <title>Detail vs. Need Matrix</title>
+        <mediaobject>
+            <imageobject><imagedata fileref="images/detailvneedmatrix_0.png"/>
+            </imageobject>
+        </mediaobject>
+    </figure>
+    
+    <para>People coming to the County Restoration Handbook may be approaching it from any of several points of view,
+        from the individual family or farm level all the way up to county-level policy planning.
+        The Handbook is organized roughly among these levels of detail with each main article marked according to the
+        level(s) it pertains to as well as the level of need (see <link linkend="LevelsOfNeedOverview">Level of
+        Need Overview</link>).
+        This will eventually result in the equivalent of marked walking trails through the Handbook for particular audiences.</para>
+    
+    <para>We are specifically looking at three main levels of detail.</para>
+    
+    <orderedlist>
+        <listitem><para><link linkend="FamilyFarmLevel">Family/Farm Level</link></para></listitem>
+        
+        <listitem><para><link linkend="CommunityTownshipLevel">Community/Township Level</link></para></listitem>
+        
+        <listitem><para><link linkend="CountyLevel">County Level</link></para></listitem>
+    </orderedlist>
+    
+    <para>At each level, a different type of organization is required, different communication technologies are
+        effective, and the audience for the information will be different. At the county and community/township level,
+        we must also cover the glue which will be used to organize communities into manageable units within each
+        county.
+        Fortunately, as Missouri was laid out according to Public Land Survey<citebiblioid>895</citebiblioid>
+        <glossterm>Quadrangle</glossterm>, <glossterm>Township</glossterm>, <glossterm>Section</glossterm> lines, we
+        have natural units for that level of organization.</para>
+    
+    <para>It is recommended that each reader concentrate on the level of detail they are most interested in but also
+        familiarize themselves with information at adjoining levels.
+        Families, therefore, need to read the Family/Farm Level
+        information thoroughly and be familiar with the Community/Township Level.
+        County-level planners should read CountyLevel information thoroughly and become familiar with at least the
+        Community/Township Level.
+        People organizing neighborhood watch and township emergency services need to be familiar with all levels of
+        information as the brunt of responding to any emergency is on your shoulders and you must coordinate both with
+        individual families and county-level personnel.</para>
+        
+</chapter>

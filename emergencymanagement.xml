@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<chapter xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="EmergencyManagementGoal">
+    <title>Emergency Management</title>
+    
+    <indexterm zone="EmergencyManagementGoal">
+        <primary>emergency management</primary>
+    </indexterm>
+    
+    <section><title>Overview</title>
+        
+    <para>This section of the Handbook deals with community and self-preparedness: mobilizing
+        neighbors to deal with local, short-term emergencies of all kinds.
+        In any kind of emergency, the biggest killer is panic and the greatest hurdles are communications
+        and teamwork.
+        There are many ways to accomplish critical tasks, but in the middle of an emergency is not the
+        time to argue about it.
+        Critical skills need to be identified quickly and everyone in the community should have a useful
+        role, whether it is assisting law enforcement, helping track a lost child through the woods,
+        setting up impromptu day care, or having a hot meal for the rescue workers when they return.
+        Vulnerable members of the community, including strangers who may not have emergency shelter,
+        children, the disabled, elderly persons, sick and wounded must be identified and taken care of
+        quickly and efficiently.
+        When at all possible, this care should come from the community itself, not outside strangers.</para>
+    
+    <para>The Handbook's coverage is based on these fundamental rules of emergency management:
+    
+    <orderedlist>
+        <listitem><para>The first rule of emergencies is not to have one, and therefore the first step is
+            helping people prepare ahead of time for foreseeable problems.
+            This includes having a food, fuel, and financial buffer, basic emergency supplies, the ability
+            to communicate to report problems, hear instructions, or get help, awareness of safety and security,
+            self-defense, and first aid.
+            For every person who is prepared for an emergency, that is one less person who needs help and
+            one more person relief efforts can concentrate on instead.</para></listitem>
+        
+        <listitem><para>Someone who is prepared is a potential resource to help others who, for whatever
+            reason, did or could not.
+            If you never use your first aid skills on yourself or in your home, perhaps you will keep an
+            injured motorist breathing until a medical professional can arrive.
+            If you never need to defend yourself, defense training might save another's life.
+            The more these skills are spread around the community, the better chance someone will be
+            there to help you, your family member, your child when needed.
+            There is less than one police officer per one thousand people;
+            it is physically impossible for them to always be when and where needed, but you have a
+            lot of neighbors much closer to home.</para></listitem>
+        
+        <listitem><para>Teamwork does not just happen: it takes time for people to learn about each other,
+            trust each other, and develop the communications structure to work well under adverse
+            circumstances.
+            That is true of police, it is true of citizens working together, and it is true of citizens and
+            police working together to make our communities safe. One of the largest benefits of community
+            training is simply meeting your neighbors, the amateurs and the professionals, and starting to
+            build the esprit d'corps necessary to meet trouble and excel.</para></listitem>
+        
+        <listitem><para>Adversity, danger, and violence can be paralyzing; the best way to help someone is
+            to give them a useful role. Dwelling on danger, on personal loss, on suddenly unfamiliar and
+            chaotic circumstances, on pain can lead to a rapid spiral where people become depressed,
+            unstable and a danger to themselves or others.
+            Giving people a role and utility within their measure reverses this spiral and they can quickly
+            become an asset to a relief effort.</para></listitem>
+        
+        <listitem><para>Bad morale is contagious but shared pain is diminished and shared joy is multiplied.
+            People need to be able to continue to function as a community during an emergency, to re-enforce
+            eachother's efforts, to share the burden of loss, to worship, and to celebrate the victories
+            and small miracles of life. Establishing community, morale, and even entertainment quickly
+            pays dividends.
+            Small comforts and elements of the familiar have a disproportional effect under bad
+            circumstances.</para></listitem>
+    </orderedlist>
+    </para>
+    
+    <para>To a large extent, existing organizations, programs, and resources already cover many specific
+        needs in the community: the American Red Cross, the First Responder Program, ARES, REACT, etc.
+        These organizations provide assistance in emergencies, coordinate volunteers, and offer training.
+        In many cases, there may not be enough volunteers in the right places at the right times, people
+        may not have the training they need, or organizations may not be active in some areas.
+        As a general rule, organization at the county level and within urban areas is stronger than in rural
+        neighborhoods and, in most cases, neighborhoods and businesses do not know how to coordinate with
+        emergency volunteers and professionals: people do not know what to do or where to go when they need
+        help or when others around them need help.</para>
+    
+    <para>The goal of community organization for emergency management is then:
+    
+    <itemizedlist>
+        
+        <listitem><para>To improve our communities and educate citizens to reduce the number of emergencies which
+            occur.</para></listitem>
+        
+        <listitem><para>To direct people to volunteer groups which suit their interests and encourage them to get
+            appropriate training.
+            The end goal is to ensure that trained and equipped volunteers are available in enough locations and
+            enough numbers to respond to most emergencies and to keep things going in developing disasters long
+            enough for relief organizations to properly mobilize.</para></listitem>
+        
+        <listitem><para>To organize neighborhood watches, especially the <link linkend="RuralWatchArea">Rural
+        Watch Areas</link> for local, neighborhood coordination to communicate with emergency volunteers
+            and professionals.</para></listitem>
+        
+        <listitem><para>To ensure that designated areas exist for people to obtain news, assemble volunteers,
+            and store emergency equipment and supplies in the neighborhoods, close to where they will be
+            needed.</para></listitem>
+        
+        <listitem><para>To help different organizations and interests work together in the communities to
+            coordinate effort and reduce duplication or confusion.</para></listitem>
+        
+        <listitem><para>To organize and disseminate <link linkend="BestPractices">BestPractices</link> for
+            local emergency response and neighborhood-level organization, coordinate communications
+            procedures and protocols within our counties of interest.</para></listitem>
+        
+        <listitem><para>To recommend and promote equipment which is dependable, interoperates with other
+            equipment, and serves its purpose under adverse conditions, including how to improvise
+            organization and equipment when needed.</para></listitem>
+    </itemizedlist></para>
+    
+    </section>
+    
+    <section><title>Individual/Family Emergency Planning</title>
+        
+    <para>By definition, an emergency is something for which you are not prepared. The more you are prepared to take in stride, the fewer events will be emergencies. For example, there is rarely any reason for a short power outage to be an "emergency" as minimal preparation will allow life to continue uninterrupted. Unfortunate things happen, and every family should take steps to protect themselves from unfortunate events.</para>
+    
+    <para>These are the basic steps, roughly in order of importance, to consider:</para>
+    
+    <itemizedlist>
+        <listitem><para>Know who to contact for help.</para></listitem>
+        <listitem><para><link linkend="ICE">ICE</link> "In Case of Emergency" information so an aid worker
+        knows who to call to help you (e.g. next of kin, your doctor).</para></listitem>
+        
+        <listitem><para><link linkend="FirstAid">First Aid</link> Kit</para></listitem>
+        
+        <listitem><para><link linkend="BugOutBag">BugOutBag</link> and
+            <link linkend="GetHomeBag">GetHomeBag</link></para></listitem>
+        
+        <listitem><para><link linkend="VitalDocuments">Vital Documents</link></para></listitem>
+        
+        <listitem><para>Home emergency kit (this bridges between "Emergency Managementent" and
+            "<link linkend="DisasterPreparedness">Disaster Preparedness</link>)</para></listitem>
+        
+        <listitem><para>Training</para></listitem>
+        
+        <listitem><para>Tools</para></listitem>
+    </itemizedlist>
+    
+    <section><title>Who To Call</title>
+    
+    <para>The first step every family should take is to organize and post information in the house
+        (and on every cellphone used in the household) on who to contact in case of emergency.
+        This includes 9-1-1, the direct numbers for local fire and police (to report an incident
+        after the fact, for instance), and the number of Aunt Flo where the kids can stay for
+        a few days if there is trouble at the house.
+        Children should be trained early on who to go to for help, especially if something
+        happens where the parents are incapacitated.</para>
+    
+    </section>
+        
+    <section><title>ICE</title>
+    
+    <para>Have <link linkend="ICE">ICE</link> In Case of Emergency information where it can be
+        found if you are incapacitated.
+        Put it in wallets, in glove compartments, on the refrigerator, in school bags, and
+        physically attach it to your child at large events (with a pouch and safety pin, for
+        instance).
+        Identity, name of parents, allergies, medical needs, and who to contact aside from
+        the parents are a good start.</para>
+    
+    </section>
+        
+    <section><title>First Aid Kit</title>
+    
+    <para>Have a <link linkend="FirstAid">First Aid</link> kit in your home and each car.
+        Make sure they are readily accessible, even if the power is out.
+        Check them regularly and restock expired products <emphasis>before</emphasis> you need them.</para>
+    
+    </section>
+        
+    <section><title>BugOutBag</title>
+    
+    <para>The next step is to organize a <link linkend="BugOutBag">BugOutBag</link> or 72-hour kit
+        to enable the family to weather a larger emergency in the home or to carry essentials when
+        forced to flee the home.
+        A BugOutBag (and the complementary GetHomeBag used to get home when an emergency happens at
+        work or otherwise away from the home) also functions as a starting point for charity when
+        <emphasis>someone else</emphasis> has the emergency and has to sleep on your floor for a night or at a nearby hotel. The American Red Cross assembles such kits to give to people who are burned out of their homes (including a stuffed animal for kids), but everyone who can help their own neighbor frees up charity resources for someone else. During a large regional emergency, this can make a tremendous difference.</para>
+    
+    <para>Start assembling a Bug Out Bag immediately. Do not wait until you can get everything needed.
+        Start with the bare essentials and work up from there. Make sure your Bug Out Bag has the basic
+        documents needed to get further help. When the Red Cross shows up at a fire, for instance, one of
+        the first things they will need is some way to identify the people who actually lived in the house.
+        You will also need information on your insurance agency and government identification.
+        Some items may stay in your car glove compartment in case you leave the home with only your night clothes.
+        Your car will survive 9 out of 10 emergencies which may destroy your home (such as a fire).
+        Safe deposit boxes are an obvious choice for important papers, but remember: <emphasis>you cannot
+            access the box without key and ID!</emphasis></para>
+    
+    </section>
+        
+    <section><title>Vital Documents</title>
+    
+    <para>Your <link linkend="VitalDocuments">Vital Documents</link> are next, building on what you organized
+        for your BugOutBag.</para>
+    </section>
+        
+    <section><title>Home Emergency Kit</title>
+    
+    <para>Next, extend your <link linkend="BugOutBag">BugOutBag</link> supplies to a three-day stay in the
+        home.
+        For instance, put three-days worth of basic supplies in your storm shelter so that you can survive
+        three days in place and <emphasis>then</emphasis> three-days outside the home if forced to leave.
+        At that point, you are crossing the boundary from Emergency Management to
+        <link linkend="DisasterPreparationGoal">DisasterPreparation</link>.</para>
+    
+    <section><title>Training</title>
+    
+    <para>Work on getting necessary training! Everyone should get basic First Aid/CPR training. Start young. First Aid can be integrated with school, home school, sports programs, or e.g. Cub Scouts. The American Red Cross, FEMA, and other organizations offer classes in your community. Many of them are free. Red Cross courses are generally free to Red Cross volunteers (so sign up!).
+        The more people available with basic First Aid knowledge, the better chance that someone can get the lifesaving help they need until a professional can arrive.</para>
+    
+    </section>
+    
+        <section><title>Tools</title>
+    
+    <para>Make sure you have the basic tools you need to maintain your home in a short-term emergency. This will include:</para>
+    
+    <itemizedlist>
+        <listitem><para>Tools to turn off the gas lines.</para></listitem>
+        <listitem><para>Saws and hatchet to move downed limbs and trees blocking doors and driveways.</para></listitem>
+        
+        <listitem><para>Emergency lighting and portable appliances with <emphasis>charged</emphasis>
+        batteries.</para></listitem>
+        
+        <listitem><para>Hammer, nails, duck tape, cardboard, and other items to seal broken windows and doors.</para></listitem>
+        <listitem><para>Basic tools to repair plumbing and thaw frozen pipes.</para></listitem>
+        <listitem><para>A secondary (and safe!) source of heat.</para></listitem>
+        <listitem><para>Tools to clear ice and snow from walkways, driveways, and your car.</para></listitem>
+        <listitem><para>Whatever else is critical to your home and situation.</para></listitem>
+    </itemizedlist>
+    
+        </section>
+    
+        <section><title>Conclusion</title>
+    
+    <para>The best way to become prepared is to start somewhere. Choose an item or two from the list at a time.
+        Having any preparation at all puts you above average. Be persistent and keep working at it.</para>
+    </section>
+    </section>
+    </section>
+</chapter>

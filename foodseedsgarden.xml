@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<chapter xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="FoodSeedsgarden">
+    <title>Food, Seeds, Garden</title>
+    
+    <indexterm zone="FoodSeedsgarden">
+        <primary>food</primary>
+        <secondary>production</secondary>
+    </indexterm>
+    <indexterm zone="FoodSeedsgarden">
+        <primary>gardening</primary>
+    </indexterm>
+    <indexterm zone="FoodSeedsgarden">
+        <primary>seeds</primary>
+    </indexterm>
+    
+    <para>There's a saying that I've heard around the agricultural community, "If you eat, you're in agriculture." It is considered a basic human right to grow or forage for your own food on your own land.</para>
+    
+    <para>In emergency situations, it often comes to light just how little food we keep around in our homes, and the food we often do have that can be prepared in less than ideal circumstances is often of poor quality or loaded with chemical preservatives, additives or colors.</para>
+    
+    <para>But let's stop a moment and define "emergency". Many people who store more than a few days' worth of food in their homes are thought to be preparing for "TEOTWASKI" (The End of the World as we Know It," often viewed as some great flu epidemic, terrorist attack, massive natural disaster or a severe breakdown of government services. The simple fact is that an emergency is something you are not prepared to deal with. If your spouse loses their job, wouldn't it be a relief to know that you don't have to worry about money to buy groceries for a few weeks or months? How about when someone's home burns down or floods and they have to start from scratch - often with donated household items, but food is rarely thought of in these instances.</para>
+    
+    <para>During the ice storm that crippled southwest Missouri during January of 2007, we were fairly comfortable in our rental house, which had gas heat, gas water heating and a gas stove. We made candles and had oil lamps, and for the two weeks we were without power, we stored our "keep cold" groceries in a bedroom that we closed off and our frozen goods on the back porch. We had spent a lot of time away from television and "normal" distractions, so not having those available was inconvenient, but not that bad - we played games, worked on craft projects and put together baked goods to take down to the shelters that were set up in a local church. After three days at home, we decided to poke our heads out, get the van de-iced and see how everyone else was doing. It was a madhouse! People did not have alternative ways to heat their homes, leading to a very near case of carbon monoxide poisoning of friends of ours who had not known how to properly run their gas heating system (they had never used it before that point). Other friends had not thought to change out their cordless phones for corded ones that could be used without power, and the general lack of "normal" entertainment had everyone on edge, bored and stressed out. It really opened our eyes as to the difference between a prepared home and an "average" one.</para>
+    
+    <para>Another common saying, this one from truck drivers, "If you're eating it, a truck brought it." Regional disasters have borne this fact out; most large cities have a 3-day supply of food or less at any given time. Video from Hurricane Katrina, midwestern ice storms and the recent Haitian earthquake often pokes us in uncomfortable ways and make us think of setting up more food storage, but it can be a difficult prospect requiring a great deal of thought.</para>
+    
+    <para>But food storage has to be more than the required 25 pounds of grains and 5 pounds of beans per month per person. The elderly and young children have been known to starve themselves rather than eat a monotonous and bland diet. Following Y2K, thousands of people across the country, who had purchased at a premium large quantities of dried and canned goods, found themselves selling for very little the food that they did not eat. "Store what you eat and eat what you store," is very good advice, indeed. An emergency situation where you may not have access to all your usual cooking resources is NOT the time to learn how to cook with these ingredients.</para>
+    
+    <para>But food storage is not simply for those who are well-off and able to afford it. By sticking with homemade, wholesome foods, families can save a great deal of money. <link xlink:href="http://www.hillbillyhousewife.com/" >The Hillbilly Housewife</link> has meal plans, complete with recipes, to feed a family of 4 for about $75 a week - a great boon for a family who has lost an income or is otherwise facing hard financial times.</para>
+    
+    <para>Beyond stored foods is a great array of wild and cultivated plants that can be used to save money and add interest and much-needed nutrients to meals.</para>
+    
+    <para>Here are some additional links on food-related topics:</para>
+        
+    <itemizedlist><title>Food Storage</title>
+        <listitem><para><link linkend="FoodStorageSupplies">Food Storage Supplies</link></para></listitem>
+        <listitem><para><link linkend="WiltResistantPotatoes">Wilt Resistant Potatoes</link></para></listitem>
+        <listitem><para><link xlink:href="http://www.thefoodguys.com/foodcalc.html">Food Storage Calculator</link></para></listitem>
+        
+        <listitem><para><citetitle pubwork="article">Long Term Storage of Dry Goods in Plastic Buckets<citebiblioid>920</citebiblioid></citetitle></para></listitem>
+        <listitem><para><link linkend="Bullen-2008-05-27">Basic Grain Storage Technique and Determining Capacities</link></para></listitem>
+        <listitem><para><link linkend="Paul-2008-06-09">Legionary Rations: Roman Portable/Refrigeratorless Cooking</link></para></listitem>
+        <listitem><para><citetitle pubwork="book">Cookin with Home Storage<citebiblioid>862</citebiblioid></citetitle></para></listitem>
+    </itemizedlist>
+    
+    <itemizedlist><title>Food</title>
+        <listitem><para><link linkend="PlantBreedingExpertList">PlantBreedingExpertList</link></para></listitem>
+        <listitem><para><link linkend="HullessBarley">HullessBarley</link></para></listitem>
+    </itemizedlist>
+    
+    <para><link xlink:href="http://www.permies.com/">Permies: Permaculture Resource</link></para>
+    
+    <itemizedlist><title>Food Processing</title>
+        <listitem><para><link linkend="HomeMadeOilPress">HomeMadeOilPress</link></para></listitem>
+    </itemizedlist>
+       
+    <itemizedlist><title>Harvesting From Nature: Wild Edible Plants</title>
+        <listitem><para><link xlink:href="http://mistymanormercers.com/OzarkHerbal/html/">Pages From An Ozark Herbal</link></para></listitem>
+        <listitem><para><citetitle pubwork="article">Spring Edibles: Lunch and More from your Lawn<citebiblioid>820</citebiblioid></citetitle></para></listitem>
+    </itemizedlist>
+    
+</chapter>

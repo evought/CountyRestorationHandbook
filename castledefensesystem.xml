@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<section xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="CastleDefenseSystem">
+    <title>Castle Defense System</title>
+    
+    <indexterm zone="CastleDefenseSystem">
+        <primary>disaster preparation</primary>
+    </indexterm>
+    <indexterm zone="CastleDefenseSystem">
+        <primary>emergency management</primary>
+    </indexterm>
+    <indexterm zone="CastleDefenseSystem">
+        <primary>leadership/planning</primary>
+    </indexterm>
+    <indexterm zone="CastleDefenseSystem">
+        <primary>march</primary>
+    </indexterm>
+    <indexterm zone="CastleDefenseSystem">
+        <primary>neighborhood watch</primary>
+    </indexterm>
+    <indexterm zone="CastleDefenseSystem">
+        <primary>resilient communication</primary>
+    </indexterm>
+    <indexterm zone="CastleDefenseSystem">
+        <primary>riding</primary>
+    </indexterm>
+    <indexterm zone="CastleDefenseSystem">
+        <primary>security and defense</primary>
+        <secondary>castle defense</secondary>
+    </indexterm>
+    <indexterm zone="CastleDefenseSystem">
+        <primary>transportation</primary>
+    </indexterm>
+    
+    <para>A working "castle defense system" such as that which evolved around Medieval keeps and monasteries,
+        is more than a military structure. It was organized for local commerce, communication, emergency management,
+        and crime control in addition to defense. It was connected into a wider system of roads, posts, and circuit
+        courts.
+        We will be working with an idealized system adapted for modern community-level planning, but the principles
+        are similar to what has worked for millennia.</para>
+    
+    <para>The castle system developed in a time of trouble and tribulation to allow areas of the countryside to
+        pull together and respond to emergencies with the greatest efficiency possible.
+        In a time where local budgets and economies are stressed, police and sheriff's departments are cutting back on
+        patrols, and fuel prices are unstable, duplicating a time-tested and efficient system is worthwhile.</para>
+    
+    <para>In this system, the countryside is divided into manageable chunks based on the area which can be reasonably
+        covered by marching infantry or horseman within one day.
+        A "March" is defined as the area which can be reasonably patrolled on foot over the course of a day, and a
+        'Riding' as the area which can be patrolled on horseback over the same day.
+        These are the areas in which communication, commerce, and response to developing situations can be managed in
+        the absence of long range radio, telephone, and motorized transport.
+        It should be noted that even when vehicles and fuel are available, the medieval divisions still make sense
+        as roads, conditions, or simply funds may act to limit patrol areas in the same manner.</para>
+    
+    <para>An infantry unit can march between 10 and 20 miles in one day, or 5-10 miles one way from a central base
+        with some pack and baggage in favorable terrain.
+        Light patrols returning to prepared meals and bedding push the top of this envelope.
+        A cavalry unit can move 15-25 miles in one day or 8 to 12 miles round trip. Horse scouts with light
+        equipment and no rolling stock can push 20-40 miles between dawn and dusk in favorable terrain.
+        For our purposes, we will use a 6 mile radius for foot patrols and a 12 mile radius for horse patrols.
+        These are approximate but reasonable values which are particularly convenient in Missouri, as will
+        be discussed.
+        The limits of horse patrols are a decent approximation for what can be accomplished with motorized
+        vehicles in bad conditions and they also describe the limits of some mobile two-way radio technology
+        for use in coordinating patrols.</para>
+    
+    <figure>
+        <title>March and Riding Illustrated</title>
+        <mediaobject>
+            <imageobject><imagedata fileref="images/marchridingillus.png" width="6in"/>
+            </imageobject>
+            <textobject><phrase>A diagram of how CastleDefense is organized into Marches and Ridings.</phrase></textobject>
+        </mediaobject>
+    </figure>
+    
+    <para>Typically, each military district has one or more small strongholds which operate as a center of
+        communications, fortress, and emergency shelter in time of need.
+        'Fortress' is something which is not often needed these days as even in time of war, they cannot
+        withstand modern weaponry, but the other functions of a central keep, fort, or monastery are still
+        applicable.
+        In the past, these central points naturally became a focus of trade and commerce.</para>
+    
+    <para>A warning system of bells, beacons, or mounted heralds notified the populace of impending emergency,
+        at which point the local militia would report to the keep and the populace, if necessary, would flee
+        to it.
+        A network of foot and horse patrols would keep the central location apprised of the developing
+        situation.
+        The keep was prepared in advance to have stores of food and fodder, arms and equipment, as well as
+        shelter for citizens and animals.
+        Most modern emergency response plans provide <emphasis>no</emphasis> thought whatsoever for saving
+        livestock during a civil shutdown or evacuation.
+        For those living in the medieval period, giving thought to such things was a matter of daily life
+        (or death).</para>
+    
+    <section><title>The Public Land Survey System (PLSS) and Castle Defense</title>
+    
+        <figure>
+            <title>March and Riding in the Public Land Survey System Diagram</title>
+            <mediaobject>
+                <imageobject><imagedata fileref="images/plsmarchriding.png" width="6in"/>
+                </imageobject>
+                <textobject><phrase>A diagram of how marches and ridings are mapped to the Public Land Survey
+                    System (PLSS) units.</phrase></textobject>
+            </mediaobject>
+        </figure>
+    
+    <para>Under the Missouri Public Land Survey system, land was surveyed out from a longitude and latitude
+        "range lines" into <glossterm>townships</glossterm> of six miles square.
+        Each township was divided into 36 one mile square <glossterm>Sections</glossterm>.
+        A group of four townships by four (16 total) is a <glossterm>Quadrangle</glossterm>.
+        In Lawrence County and other areas of Missouri, Farm Roads are numbered according to section lines
+        and form a grid on one mile markers (e.g. FR 1060 is one mile from and runs parallel to FR 1050).
+        Corrections for survey error and the Earth's curvature are made at township boundaries, which is
+        why you will find sudden jags in the roads at those points.</para>
+    
+    <para>This system, as shown in the diagram, is readily adapted to Castle Defense principles.
+        A group of four townships is considered to be a March and a Quadrangle is considered to be a Riding.
+        This means that (at least) every four townships should have one central rally point and shelter capable
+        of putting out emergency personnel on foot (if necessary) and every Quadrangle should have a significant
+        outpost capable of putting out mounted or mechanized personnel in any emergency.
+        These figures must be adapted to the needs of specific terrain and conditions.</para>
+    
+    <para>Within this system, Neighborhood Watches are organized (see <link
+        linkend="RuralWatchArea">RuralWatchArea</link>).
+        Each watch is set up to report to a Township-level Watch Coordinator by phone, radio or, if necessary,
+        by horse or runner (this is why distances are critically important).
+        Each Neighborhood Watch is responsible for no more than 3 miles by 3 miles (a quarter of a township)
+        and may be significantly less in settled areas.
+        Patrols are organized and referred to on section lines.
+        For ease of use, when we refer to a Rural Watch, we will be talking about a 3 mile square area (9 sections).
+        Occasionally, we will need to talk about watches which do not conform to this norm.</para>
+    
+    <para>Within each watch, the Castle Defense is mirrored on a smaller level.
+        There is a central house or houses (Watch HQ) which are connected, in whatever fashion, to the emergency
+        communications structure and which emergency personnel know to check at for local information.
+        Each family in the neighborhood is able to communicate with the Watch HQ and knows to go there for news.
+        In time of emergency, the Watch HQ is the rally point for volunteers on their way up the chain to Township
+        HQ so they can be directed from the March HQ on where they are needed.</para>
+    
+    <para>Each Watch also arranges so that people in the neighborhood can group together when needed,
+        especially to put children, invalids, and elderly in a central location to free up volunteers
+        for emergency response. At each level, Watch HQ, Township HQ, and March HQ, it is important to
+        be able to quickly set up a field kitchen and aid station so that injured, refugees, and returning
+        volunteers can get a meal and comfort.</para>
+    
+    <para>The Riding HQ should be set up to be able to deal with an influx of volunteers, injured, and
+        refugees from its entire Quadrangle (16 townships).
+        It also needs to be able to operate as a temporary headquarters for County-level personnel who may be
+        moving from location to location to manage a developing emergency.
+        The Riding needs to have state-to-regional communications abilities, post-dispatch (e.g., by horse
+        courier) between Ridings, and the ability to quickly get volunteers and emergency personnel to the
+        townships where they are needed.
+        Both the Riding and March HQs need to have a ready-to-use map room where up-to-date information on the
+        terrain, situation, and capabilities can be quickly spread out and worked with.
+        Maps must have township and section boundaries to make coordination easier.
+        These are available from the County Assessor's office.</para>
+    
+    <para>At at least the Neighborhood Watch level, the headquarters will simply be one of the local homes.
+        At the Township, March, and Riding levels, it is more likely that a church, school, fire hall or
+        other facility will be available.
+        In many cases, the choice will be dominated by road access and line-of-site for communications.</para>
+    
+    </section>
+    
+    <section><title>Urban Centers</title>
+    
+    <para>Obviously urban centers are a wrinkle in this system.
+        Wherever possible, an available urban center should be used as the March or Riding HQ with a backup
+        facility outside the urban area in case of a need to evacuate the urban center.
+        In many cases, an urban center will be a Riding of its own and the Ridings around it will be
+        correspondingly smaller.
+        As we go forward, we will compile Missouri maps with these issues resolved.</para>
+    
+    </section>
+</section>

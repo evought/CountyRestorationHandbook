@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<chapter xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="RuralWatchArea">
+    <title>Rural Watch Area</title>
+    
+    <indexterm zone="RuralWatchArea">
+        <primary>neighborhood watch</primary>
+        <secondary>rural</secondary>
+    </indexterm>
+    <section><title>Overview</title>
+        
+    <para>The Rural Watch Area is an adaptation of the <link linkend="NeighborhoodWatch">NeighborhoodWatch</link>
+        program for rural, farm-based communities and their associated, more-settled areas. The Neighborhood Watch Program has several shortcomings for Rural Watch organizations:</para>
+    
+    <itemizedlist>
+        <listitem><para>It is focused on block-structured urban areas where population density is high and areas to be covered are relatively small.</para></listitem>
+        
+        <listitem><para>It does not deal with issues of natural predators, protection of livestock, or response to livestock-out-of-bounds incidents.</para></listitem>
+        <listitem><para>It is oriented toward relatively short response times for emergency personnel such as EMS and Sheriff.</para></listitem>
+        <listitem><para>Directly following from the previous two bullets, the Neighborhood Watch Program documents completely sidestep the incredibly sensitive issue of armed watch members, but this issue cannot be adequately ignored in a rural watch--- it must be dealt with as best as it can be. Instead, the NWP documents forbid armed watch members and focus on "observe and report" protocols similar to private security guards.</para></listitem>
+        <listitem><para>It (intentionally) fails to flesh out the details of neighborhood communication in situations where phones do not operate and shouting is insufficient to communicate with the entire watch area. These details were meant to be fleshed out at the county/neighborhood levels.</para></listitem>
+    </itemizedlist>
+    
+    <para>Because the watch program was intended to be adapted by the local groups, these failings are not fatal. It seems likely that the negative armed watch position was taken to avoid the serious liability issues for watch members using deadly force in the protection of property and the ambiguity of when such force might be justified in the defense of life. These concerns must be adequately dealt with in any add-on effort and must be tailored to the local moral, legal, and threat environments.</para>
+    
+    <para>At the same time that we deal with these larger omissions, rural Watches differ in several other ways from their urban counterparts:</para>
+    
+    <itemizedlist>
+        
+        <listitem><para>The nature of rural crime tends toward property theft and destruction rather than violent crime. Rural folk tend to be more affluent than urban dwellers (if you do not feel particularly 'affluent,' realize that farming is a capital-intensive business and that farms typically have more value in equipment and livestock sitting around unguarded than most urban mugging victims have on their person).</para></listitem>
+        <listitem><para>Violent crime which does occur tends to be more brazen and often toward home-invasion scenarios or kidnapping where the attacker is not afraid of discovery or adequate response from law enforcement--- there is simply no one to hear.</para></listitem>
+        <listitem><para>Existing communications tends to be inadequate and unreliable. Many areas of Lawrence County, Missouri, for instance, have only sporadic cell phone coverage and many towers are not adequately protected against loss of power. Rural phone switches tend to assume very low simultaneous usage and will overload quickly in any type of emergency.</para></listitem>
+        <listitem><para>The size of Rural Watch Areas makes it difficult for neighbors to simply watch their neighbors property while going about their own business as can be readily done in an urban area. A Rural Watch must concentrate more on active patrols of the area, on reporting and tracking suspicious activity.</para></listitem>
+    </itemizedlist>
+    </section>
+    
+    <section><title>Neighborhood Watch</title>
+    
+    <para>The <link xlink:href="http://usaonwatch.org/">Neighborhood Watch Program</link> started in the 1960s to focus on residential crime prevention programs involving private citizens. The National Sheriff's Association created the National Neighborhood Watch Program in 1972 to assist citizens and law enforcement in starting and organizing local Watches.</para>
+    
+    <para>Over time, the role of the watches expanded from simple crime prevention activities to include emergency response, disaster preparation, emergency communications, and other tasks. In 2002, USA On Watch was created in a partnership with the NSA, the Department of Justice, the USA Freedom Corps, and the Citizen Corps to recognize this expanded role. The Neighborhood Watch Program was intended as a starting point, not a finished product. Localities and Sheriff's departments were encouraged to tailor materials and organization to their local needs.</para>
+    
+    <para>In many ways, the activities of a modern organized watch are roughly those of the typical Founding Period's community militia, minus the armed civil defense role which those militias were infrequently called to perform. The de-emphasis on local militia training/activity, the co-opting of the term 'militia' to mean 'armed hate group,' and the general decay of community organization made it necessary to recreate them for general neighborhood communication, citizen patrol, and emergency response in a non-paramilitary context. Ideally then, a 'militia' is simply a group of armed citizens who have been activated in a civil defense role and who probably follow roughly the same structure of organization (at least initially) as the community's Watch structure. As with Founding-era militias, we expect this use to be infrequent on a historical scale but critical to state security on the occasions where it is required.</para>
+    
+    <para>The Neighborhood Watch Program has several shortcomings from the point-of-view of rural, farm-based, communities. The Community Restoration Handbook attempts to lay an effective foundation for a <glossterm>RuralWatchArea</glossterm> program.</para>
+    
+    <variablelist><title>Resources</title>
+        
+        <varlistentry><term><link xlink:href="http://usaonwatch.org/">USAOnWatch</link></term>
+        <listitem><para>The USA On Watch/Neighborhood Watch homepage.</para></listitem></varlistentry>
+        
+        <varlistentry><term><citetitle pubwork="book">Neighborhood Watch Manual<citebiblioid>835</citebiblioid></citetitle></term>
+        <listitem><para>The official handbook for starting and organizing a local neighborhood watch.</para></listitem></varlistentry>
+        
+        <varlistentry><term><citetitle pubwork="book">Neighborhood Emergency Radio Communications Service<citebiblioid>854</citebiblioid></citetitle></term>
+        <listitem><para>An EMCOM proposal for emergency radio communications at the neighborhood/watch level,
+            including technology, channel, and tone assignment recommendations.</para></listitem></varlistentry>
+    </variablelist>
+    </section>
+    
+    <section><title>Rural Watch Area Organization</title>
+    
+    <section><title>Smallest Local Unit</title>
+    
+    <para>Each Rural Watch Area will be based around a 3 section by 3 section (3 miles by 3 miles) square covering one fourth of a survey township (6 miles x 6 miles). This ends up being a fairly manageable size for rapid foot/horse/vehicle communication, can be covered by portable radios, a bell or siren. Because Lawrence County farm roads are based on the section lines, it is easy to describe watch boundaries in terms of the cross roads. The number of families in a typical Rural Watch Area is roughly comparable to an suburban block.</para>
+    
+    <para>This convention also makes it easy to name each watch uniquely (statewide) according to its township and quadrant. If this effort succeeds, there will be dozens of Rural Watch Areas in Lawrence County alone and they will need to be identified correctly when communicating with emergency personnel. Each watch will be formally named by the survey township and the quarter of the township it covers. So, for instance, the watch south of Stotts City, Missouri will be "T27N R28W NE" (sections 1, 2 ,3, 10, 11, 12, 13, 14, 15). Because the township names are based on the distance to the latitude and longitude range-lines, emergency personnel can readily convert the Watch name into a location on the map.</para>
+    
+    <para>In areas of higher population, such as the outskirts of towns or business districts, the Watch Area can be reduced to a single section named by the section number, as in "T27N R28W #13".</para>
+    
+    <para>With a Rural Watch Area based on this size, people can walk from the outside of the square to a headquarters in the center within an hour (2 to 2 1/2 miles max depending on layout of roads), and bicycle, ride, or drive that distance in minutes. From experimentation, it looks like decent consumer GMRS radios will cover this distance as will hand-held CBs, especially with a base station and good antenna at the headquarters. Low-end, FRS-only radios may not cover the distance adequately unless the terrain is ideal.</para>
+    
+    <para>Each Rural Watch Area will have a Watch Captain and should have at least one Deputy Watch Captain. Ideally, they should also have a neighborhood dispatch separate from the Captain so the radios can be monitored and the neighborhood can coordinate with emergency services while the Watch Captain is in the field. The Watch Captain, Deputy Watch Captain, and Neighborhood Dispatch should be (or become) GMRS licensees and the Dispatch may be HAM operator. Access to emergency FM radios will depend on local policy.</para>
+    
+    <para>When there is an extended emergency, neighborhood residents should gather at the Rural Watch Area HQ to get news, and volunteer to help. Either at the HQ or elsewhere, residents should consolidate small children, elderly, and disabled if possible in order to free up potential volunteers for other duties. Injured persons should also be moved here if possible and medically advisable so that emergency personnel can service one location. Bulk cooking should be done at the HQ, again to free up people to volunteer and so that returning volunteers or emergency personnel operating nearby can come back to a hot meal.</para>
+    </section>
+        
+    <section><title>Township Level</title>
+    
+    <para>The next level of organization is the <glossterm>Survey Township</glossterm>. Please note that to prevent confusion, we will generally refer to incorporated townships, such as Mount Vernon, as <emphasis>incorporations</emphasis>. There are four Rural Watch Areas per survey township, six miles by six. Professional-grade GMRS base stations with good antennas, 70 cm HAM base stations or mobile 2m HAM, and well-placed CB base stations should be able to cover this distance. Mobile 70cm HAM or GMRS sets should be able to cover the distance with a repeater. Foot traffic should take a few hours to go from the Rural Watch Area HQ to the survey township HQ. Horses and vehicles can cover the distance quickly.</para>
+    
+    <para>The Survey Township will have an equivalent population to many urban Neighborhood Watches and will have a Watch Coordinator responsible for coordinating between emergency personnel and the Rural Watch Areas under his or her Survey Township. There should also be a Deputy Coordinator and, again, a Township Dispatch who is different from the Coordinators and preferably a HAM operator/ARES member. Access to Emergency FM radios will depend on local policy, but the Coordinators and Dispatch at this level probably should have access to Emergency FM radios.</para>
+    
+    <para>At the Survey Township level, the HQ should be prepared to accept refugees and injured from the surrounding Rural Watch Areas as well as to dispatch volunteers to where they are needed. Maps, radios, first aid supplies, and the means to set up a small aid station and field kitchen should be available here. The Survey Township HQ should be prepared to host volunteers and emergency personnel returning from the field.</para>
+    
+    </section>
+    </section>
+    
+    <section><title>The Rural Watch and Bearing Arms</title>
+    
+    <blockquote>
+        <attribution><citetitle pubwork="book">Neighborhood Watch Manual<citebiblioid>835</citebiblioid></citetitle> pp 20</attribution>
+        <para>Patrol members should  be trained by law enforcement. It should be emphasized to members   that they do not possess    police powers and they shall not carry weapons   or pursue vehicles. They should also be cautioned to alert police or deputies when encountering strange activity. Members  should never confront suspicious persons who could be armed and dangerous.</para>
+    </blockquote>
+
+    <blockquote>
+        <attribution><citetitle>2nd Amendment to the Constitution of the United States</citetitle> as found in <citation>MissouriConstitution</citation> pp 189</attribution>
+        <para>A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.</para>           
+    </blockquote>
+    
+    <blockquote>
+        <attribution><citation>MissouriConstitution</citation> Article I, Section 23 (pp 15)</attribution>
+        <para>That the right of every citizen to keep and bear arms in defense of his home, person and property, or when lawfully summoned in aid of the civil power, shall not be questioned; but this shall not justify the wearing of concealed weapons.</para>
+    </blockquote>
+    
+    <para>The Neighborhood Watch Manual carefully specifies that Watch members are not police and that watch members <emphasis>shall not</emphasis> carry weapons. Watch members are not, in fact, law enforcement, and have no more authority for confronting criminals than any citizen--- and less, under the law, than a property owner confronting a criminal on their own property. Watch members should not seek confrontation with potential criminals and trespassers and--- under both law and morality--- use or even threat of deadly force is seldom acceptable in the defense of mere possessions or property.</para>
+    
+    <para>Watch members who use deadly force to intervene in a crime may expose themselves to both criminal and civil liability. That being said, the strict prohibition on watch members carrying arms is simply unworkable in a rural watch for reasons to be further discussed below. This forces us to attempt to develop guidelines for how and when watch members may carry arms for their <emphasis>personal defense</emphasis> and what the likely consequences will be. It is hoped that these guidelines will form the basis for individual watches to decide these serious issues for themselves if they wish. Clearly, for instance, a Rural Watch Area consisting to large degree of Amish farmers is going to approach these issues very differently than other Watch Areas. In the end, the goal of these guidelines is to inform on best practice and let individuals make the difficult moral choices for themselves.</para>
+    
+    <warning><title>Legality</title>
+    <para>The discussions based on the law operate from best knowledge at the time of this writing. Law may change, as may the way courts interpret it. Do not rely on any of this as legal advice without doing your own research and consulting an attorney if that seems prudent. Missouri CCW courses also offer some instruction in current self-defense law and policy.</para>
+    </warning>
+        
+    <section><title>The Problem</title>
+    
+    <para>In an urban Watch with high population density, relatively small distances, and relatively quick response times, a blanket prohibition on the carrying of arms by Watch members on patrol may be workable (some may argue that it is not advisable in even that circumstance, but we will not tackle that question here). An "observe and report" approach can work well when lines of communication are short and a rapid response is likely. Criminals, in this situation, are likely to be more afraid of their actions being observed and transmitted to the Watch Captain and from there to police when communications are reliable, pictures and video are easy to take and transmit, and an armed response can likely be called in by the Watch (in the form of police or nearby armed citizens) quickly. An unarmed Watch member in a well-organized community may well count on the cavalry coming to the rescue, perhaps even stepping out the door of the apartment 15 feet away.</para>
+    
+    <para>In a Rural Watch Area, let us take a standard three mile square in a farm community, the chance of an armed response showing up in time if a Watch member is directly threatened (or they directly witness a violent crime) is close to zero. The time for even the nearest neighbor to reach the roadside to help a Watch member may often be measured in minutes and the Sheriff may be upwards of thirty minutes away. This fact dictates not only policy regarding weapons, but also any other equipment carried by a Watch member, such as first aid kits--- the response time of local EMS is likely to be no better than that of a Sheriff, and a victim may need to be kept alive until more qualified help can arrive. When something goes wrong, a rural Watch member is likely to be on their own for a significant length of time.</para>
+    
+    <para>Many rural citizens therefore habitually carry arms or may have them accessible in their vehicles. A farmer out checking on livestock and who sees a predator will not likely have time to go home, unlock a weapon, and bring it back to the scene before their entire herd or flock has been annihilated. This is especially true of smaller livestock such as sheep and goats. As many Watch members may be patrolling as part of their own farm-related duties, which often span multiple owned or rented pastures, forbidding them to carry or have weapons accessible <emphasis>for personal defense or of their own stock</emphasis> is not workable. This decision must be left to the individual farmer.</para>
+    
+    <para>Rural Watches must also deal with hunting season which is not normally an issue in urban areas. This leads to a high probability that routine confrontations with trespassers or strangers during this season may involve an armed poacher. As a pragmatic statement, it is never advisable to confront an armed trespasser without being likewise armed: if they are law-abiding, confrontation is not necessary; if they are not law-abiding, confrontation is foolhardy. It should be noted that citizens armed on their own land may be exempt from rules prohibiting the carrying of certain types of weapons during hunting season (e.g. limits on the number and type of rounds in a shotgun during turkey season) and that this exemption does not extend to Watch members who are not on their own property.</para>
+    
+    <para>There is also a basic difference in the way some violent criminals may respond when discovered or observed in rural areas. With communication lines and response times longer, with it harder to accomplish the real-time transmission of pictures and video, an armed criminal may just as readily opt for silencing the witness and taking the camera as for running away. First Responders in rural areas may specifically be the target of criminals posing as victims and this can happen with neighborhood watches as well. In addition, another problem which urban areas do not often have is the wild, feral, or even rabid predator who will certainly not be intimidated by a camera and a radio. Watch members should not <emphasis>seek</emphasis> confrontation, but the choice of whether and how to defend their own persons must be left to them as individuals.</para>
+    
+    <para>In many instances, regardless of Watch policy, it is better to let a crime against property go unthwarted and depend on law enforcement to catch the criminal who has just been filmed in the act rather than risk a deadly altercation (and possible harm to bystanders) by a direct confrontation. As a legal principle, an armed citizen may not even forcefully <emphasis>present</emphasis> or threaten with a weapon unless there is an imminent threat of harm to life and limb. Such a threat is not present when observing a thief in the act of stealing a bicycle unless they directly threaten or harm others in the act.</para>
+    
+    <para>But in the rare cases where a Watch member directly observes a violent crime and in which lives are in danger at that very moment, telling them that they must "observe and report" without intervening, when they know that armed intervention will almost certainly not arrive in time, is morally questionable. Whether it is actually <emphasis>advisable</emphasis> to intervene is something which cannot be determined for all situations in advance. Even the training of law enforcement officers is not sufficient to that task and the decision may never be made lightly. Purporting to make that decision across the board for all neighborhoods and all situations is simply not operable.</para>
+
+    </section>
+        
+    <section><title>The Devil In the Details</title>
+    
+    <para>Because neighborhood watches have no special authority or law enforcement power, any Watch member choosing to intervene in any situation does not do so with the endorsement of any organization (and clearly not endorsement of the Neighborhood Watch Program which explicitly forbids doing so). At the point where they go from observer to participant, they shed their identity as a member of the Watch and act as private citizens only. They are then open to civil and criminal liability for their actions as well as the possibility of having to live with a mistake, and a resulting wrongful death, for the rest of their lives.</para>
+    
+    <para>Additionally, there is the question of whether and how a citizen may lawfully carry arms independent of the Neighborhood Watch. Watch members may not be issued arms by the Watch. When they carry arms (or have them accessible in their vehicles) as <emphasis>private citizens</emphasis> while participating in the Watch, they must obey all other requirements for lawful open or concealed carry. <emphasis>This includes the requirements of property owners</emphasis> whose property may be posted or who may not have given permission for anyone to carry weapons on their property. Participation in a Neighborhood Watch does not constitute a blanket allowance for its members to carry arms on all properties within its bounds. Indeed, such would be extremely problematic when there may be criminals who <emphasis>live in the neighborhood</emphasis> and who may wish to participate in the Watch as cover for other activities.</para>
+    
+    <para>Otherwise lawful possession of legal weapons may not be a problem on patrol when the patrol sticks to public roadways or when weapons remain in the citizens' own vehicles, but any time response to an emergency results in entrance into a property, the rights and wishes of the property owner <emphasis>must be obeyed</emphasis>. It is best to discuss these issues in advance and to make sure neighborhood properties are properly posted to avoid any possible confusion.</para>
+    </section>
+        
+    <section><title>Guidelines For Watchmembers Bearing Arms</title>
+    
+    <itemizedlist>
+        <listitem><para>Watchmembers may lawfully bear arms <emphasis>in their own person</emphasis> and for their personal defense while on patrol or other Watch business as long as they obey all applicable laws and are otherwise entitled to bear arms (e.g., of age and not a convicted felon). Likewise, they may keep accessible arms in their vehicles subject to applicable law. Neither the Watch, nor any group, organization, or other person associated with the Watch assumes any responsibility for the use of any such arms.</para></listitem>
+        
+        <listitem><para>A Watch shall not issue weapons to its members, request or require them to bear arms in its name, request or require armed response by Watch members to an incident. A request by a citizen (for instance on a Watch radio frequency) for help when under (alleged) threat of bodily injury or death is a request from the <emphasis>citizen</emphasis> in their personal capacity to other citizens in their <emphasis>personal capacities</emphasis>. Be aware that responding to such a request, especially when you did not witness an altercation and do not fully understand the situation, is fraught with danger: morally, legally, and physically. <emphasis>Do so at your own peril.</emphasis> Trained law enforcement will often hesitate to enter such situations, especially domestic disputes.</para></listitem>
+        
+        <listitem><para>In the state of Missouri, it is illegal to shoot any canine (domestic or feral dog, fox, coyote, or wolf) unless the animal is a threat to life or property at the time of the shooting. Retaliatory, preemptive, or systematic shooting of stray animals is not legally authorized. If an animal is shot in the process of attacking a human or after it has bitten a human, it should be preserved for examination by health officials to see if a disease such as rabies played a role in the attack (<link linkend="RulesForShootingCanines">Rules For Shooting Canines</link>).</para></listitem>
+        
+        <listitem><para>Individual families or farmers in a neighborhood may make agreements among themselves as to whether and how armed response is authorized on their property. For instance, my neighbor and I might arrange that we will protect each other's livestock from predators. Once again, these issues are outside the scope of the Watch organization and must legally full under the scope of private individuals.</para></listitem>
+        
+        <listitem><para>Watch members should not pursue criminals, trespassers,  assailants, or vehicles. Instead, issue a <glossterm>Be On The Lookout For</glossterm> (BOLO) to other watch members/nearby watches and inform authorities. Take pictures and record notes.</para></listitem>
+        
+        <listitem><para>An armed watch member must obey the requirements and postings of a property owner the same as everyone else. Each Watch is expected to discuss the issues and to ensure that properties are appropriately and legally posted as to any weapons policies of the property owner. Membership in a Watch does <emphasis>not</emphasis> constitute any authority to bear arms on any property.</para></listitem>
+        
+        <listitem><para>Watch members should not seek a confrontation with anyone likely to be armed or violent but should focus on observing and reporting suspicious activity. When trespassers must be confronted in order to determine their purpose, it is recommended that the property owner or his/her agent approach with Watch members there to observe. Under Missouri law and <glossterm>Missouri Castle Doctrine</glossterm>,
+            the property owner has certain rights in defense of their own property not held by anyone else.
+            In any case where there is reason to expect that a trespasser may be violent, 1) avoid confrontation and 2) call the Sheriff.</para></listitem>
+        
+        <listitem><para>Watch members, even in their own capacities, should not present, brandish, or fire weapons, threaten or use force unless to protect life from imminent danger.</para></listitem>
+        
+        <listitem><para>A Watch member (whether armed or not) who intervenes and uses force in any neighborhood confrontation is legally <emphasis>on their own</emphasis>. The Watch may neither discourage nor encourage such action.</para></listitem>
+        
+        <listitem><para>Members of a Watch may be legally charged by a Sheriff or other civil authority to bear arms during a protracted emergency (acting as a posse, as assistant deputies, or as a militia), but until or unless that occurs, they are merely citizens with no legal authority.</para></listitem>
+        
+        <listitem><para>A Watch may (and should) attempt to educate rural citizens on the legal and moral issues involved in the use of deadly force for self-defense and may encourage local training in the safe operation of firearms or in self-defense generally so that citizens may choose to act or not act in their own person. This may include organization of firearms safety, hunting safety, training by local law enforcement, and CCW courses. Weapons are a fact of life in farm communities and people should know how to handle them safely and effectively.</para></listitem>
+        
+        <listitem><para>Pepper spray and black powder weapons often fall under different laws than firearms. Rural Watch Areas may wish to discuss these alternatives in areas where carrying of firearms for personal defense may not be acceptable.</para></listitem>
+        
+        <listitem><para>It is not generally advisable to enter private property on patrol and is not advisable at all to do so without permission of the owner. Doing so armed is a good way to get killed.</para></listitem>
+        
+        <listitem><para>Do not confront strangers who are merely present in the community, such as a car which has driven by several times. Record information and take photos if possible and issue a BOLO to other Watch members to see if a pattern develops.
+            (In my neighborhood, a neighbor called the Sheriff because of a suspicious vehicle often driving through slow in the middle
+            of the night.
+            As it turns out, it was a person who had recently leased a pasture and was checking his livestock at regular intervals.
+            Suspicious behavior does not equal "illegal" but it is worth keeping an eye on. (---EricVought)</para></listitem>
+        
+        <listitem><para>Always have witnesses. Use the Buddy System whenever possible on patrol and/or record encounters, preferably transmitting that recording to another location. Log any incidents immediately while the details are still fresh in your mind.</para></listitem>
+    </itemizedlist>
+    </section>
+    </section>
+        
+    <section xml:id="RuralWatchAreaAndMusteringOut"><title>Rural Watch Area and Mustering Out</title>
+    <para></para>
+    </section>
+    
+    <section xml:id="RuralWatchExample"><title>Rural Watch Example</title>
+    <para></para>
+    </section>
+</chapter>
+

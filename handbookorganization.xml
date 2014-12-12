@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+
+<chapter xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xml:id="HandbookOrganization">
+    <title>Handbook Organization</title>
+    
+    <indexterm class="startofrange" xml:id="handbookorganization.idx.1">
+        <primary>organization</primary>
+    </indexterm>
+    
+    <para>For a list of sections, see the Table of Contents. For recommended reading by audience or special interest, see <link linkend="StartHere">Start Here</link>.</para>
+    
+    <para>This handbook will organize a great deal of information which 
+        leads(?) to use by people with different but often overlapping 
+        perspectives. Regardless of perspective, the basic needs are the same:</para>
+    
+    <orderedlist xml:id="TenPointChecklist">
+        <title>Ten Point Checklist</title>
+        <listitem><para><link linkend="Water">Water</link></para></listitem>
+        <listitem><para><link linkend="Shelter">Shelter</link></para></listitem>
+        <listitem><para><link linkend="Food">Food</link></para></listitem>
+        <listitem><para><link linkend="HeatAndCooling">Heat and Cooling</link></para></listitem>
+        <listitem><para><link linkend="EconomicIndependence">Economic Independence</link></para></listitem>
+        <listitem><para><link linkend="Transportation">Transportation</link></para></listitem>
+        <listitem><para><link linkend="HealthAndNutrition">Health And Nutrition</link></para></listitem>
+        <listitem><para><link linkend="SecurityAndDefense">SecurityAndDefense</link></para></listitem>
+        <listitem><para><link linkend="ResilientCommunication">ResilientCommunication</link></para></listitem>
+        <listitem><para><link linkend="Continuity">Continuity</link></para></listitem>
+    </orderedlist>
+    
+    <para>This is the "Ten Point Checklist"
+        for determining how viable a family/farm, community, or county is. 
+        Depending on the scale and scope of an effort, each topic may be 
+        approached very differently by different audiences. The topics can then 
+        be generally divided by level of detail and level of need:</para>
+    
+    <figure><title>Detail vs. Need Matrix</title>
+        
+        <mediaobject>
+            <imageobject><imagedata fileref="images/detailvneedmatrix_0.png"/>
+            </imageobject>
+            <textobject><phrase>A diagram showing how level of detail and level of need interact.</phrase></textobject>
+        </mediaobject>
+    </figure>
+    
+    <itemizedlist>
+        <listitem><para><link linkend="LevelsOfDetailOverview">Level Of Detail Overview</link></para>
+            
+            <itemizedlist>
+                <listitem><para><link linkend="FamilyFarmLevel">Family Farm Level</link></para></listitem>
+                <listitem><para><link linkend="CommunityTownshipLevel">Community/Township Level</link></para></listitem>
+                <listitem><para><link linkend="CountyLevel">County Level</link></para></listitem>
+            </itemizedlist></listitem>
+        <listitem><para><link linkend="LevelsOfNeedOverview">Level Of Need Overview</link></para>
+            
+            <variablelist>
+                <varlistentry>
+                    <term><link linkend="EconomicCommunityRestorationGoal">Economic Community Restoration Goal</link>
+                    </term>
+                    <listitem><para>Work toward mid and long-term improvement of our own economic 
+                        well-being and the well-being of our communities; making our communities
+                        healthier and more resilient in the face of change or hardship. 
+                        Recognizing and promoting best-practices at the community level.</para></listitem>
+                </varlistentry>
+                
+                <varlistentry>
+                    <term><link linkend="EmergencyManagementGoal">Emergency Management Goal</link></term>
+                    <listitem><para>Dealing with the crisis-of-the-minute (&lt; 72 hours) whether or not
+                        best practices are in place or preparation has occurred.</para></listitem></varlistentry>
+                
+                <varlistentry>
+                    <term><link linkend="DisasterPreparationGoal">Disaster Preparation Goal</link></term>
+                    <listitem><para>Planning for and dealing with longer term (&gt; 72 hours), regional emergencies 
+                        which might disrupt production, communications, or infrastructure for 
+                        extended periods. Once again, when disaster strikes implementation of 
+                        best practices and preparations will likely be incomplete, so thought 
+                        needs to be given to improvisation or crash-transition.</para></listitem></varlistentry>
+            </variablelist></listitem>
+    </itemizedlist>
+    
+    <para>This means that each topic, such as water treatment can be looked at 
+        from nine different points of view: are you a home owner trying to 
+        figure out what to drink today because the city water has stopped 
+        functioning or a policy planner looking at community-wide water 
+        treatment and emergency storage in the event of a regional disaster? 
+        Each Handbook article may cover one or more of these boxes on the 
+        restoration matrix.</para>
+    
+    <para>Of course, the other type of information required for any useful discussion is the starting point, <link linkend="WhereAreWeNow">Where Are We Now</link>.</para>
+    
+    <para>The <link linkend="SupportingDocuments">Supporting Documents</link>
+        section will organize general reference materials and external 
+        documents. Many of these materials will be distributed with the Handbook
+        as addenda or in electronic form on a CD.</para>
+
+    <indexterm startref="handbookorganization.idx.1" class="endofrange"/>
+    
+</chapter>
