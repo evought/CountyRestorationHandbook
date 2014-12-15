@@ -1,0 +1,35 @@
+<project name="CountyRestorationHandbook" default="dist" basedir=".">
+    <description>
+        Build tools for processing CountyRestorationHandbook DocBook
+    </description>
+  <!-- set global properties for this build -->
+  <property name="src" location="src"/>
+  <property name="formatted" location="formatted"/>
+  <property name="html" location="${formatted}/html"/>
+  <property name="pdf" location="${formatted}/pdf"/>
+  <property name="dist"  location="dist"/>
+
+  <target name="init">
+    <!-- Create the time stamp -->
+    <tstamp/>
+    <!-- Create the build directory structure used by compile -->
+    <mkdir dir="${formatted}"/>
+  </target>
+
+  <target name="format" depends="init"
+        description="produce formatted output" >
+  </target>
+
+  <target name="dist" depends="format"
+        description="generate the distribution" >
+    <!-- Create the distribution directory -->
+    <mkdir dir="${dist}/lib"/>
+
+  </target>
+
+  <target name="clean"
+        description="clean up" >
+    <delete dir="${formatted}"/>
+    <delete dir="${dist}"/>
+  </target>
+</project>
