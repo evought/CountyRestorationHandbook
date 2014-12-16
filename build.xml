@@ -3,33 +3,41 @@
         Build tools for processing CountyRestorationHandbook DocBook
     </description>
   <!-- set global properties for this build -->
-  <property name="src" location="src"/>
-  <property name="formatted" location="formatted"/>
-  <property name="html" location="${formatted}/html"/>
-  <property name="pdf" location="${formatted}/pdf"/>
-  <property name="dist"  location="dist"/>
+  <property name="src.dir" location="src"/>
+  <property name="formatted.dir" location="formatted"/>
+  <property name="html.dir" location="${formatted}/html"/>
+  <property name="pdf.dir" location="${formatted}/pdf"/>
+  <property name="dist.dir"  location="dist"/>
+
+  <fileset id="xmlinput.files" dir="${src.dir}" includes="**/*.xml"/>
 
   <target name="init">
     <!-- Create the time stamp -->
     <tstamp/>
     <!-- Create the build directory structure used by compile -->
-    <mkdir dir="${formatted}"/>
+    <mkdir dir="${formatted.dir}"/>
   </target>
 
-  <target name="format" depends="init"
+  <target name="validate" depends="init" >
+    <xmlvalidate lenient="true">
+      <fileset refid="xmlinput.files"/>
+    </xmlvalidate>
+  </target>
+
+  <target name="format" depends="validate"
         description="produce formatted output" >
   </target>
 
   <target name="dist" depends="format"
         description="generate the distribution" >
     <!-- Create the distribution directory -->
-    <mkdir dir="${dist}/lib"/>
+    <mkdir dir="${dist.dir}/lib"/>
 
   </target>
 
   <target name="clean"
         description="clean up" >
-    <delete dir="${formatted}"/>
-    <delete dir="${dist}"/>
+    <delete dir="${formatted.dir}"/>
+    <delete dir="${dist.dir}"/>
   </target>
 </project>
